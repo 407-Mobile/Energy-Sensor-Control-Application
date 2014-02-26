@@ -202,3 +202,210 @@
 2014-02-23 16:41:54.127 EnergyControl[42434:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
 2014-02-23 16:42:11.842 EnergyControl[42434:80b] CDVWebViewDelegate: Navigation started when state=1
 2014-02-23 16:42:11.842 EnergyControl[42434:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+Terminating in response to SpringBoard's termination.
+2014-02-25 18:57:43.644 EnergyControl[50421:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-25 18:57:43.827 EnergyControl[50421:80b] Unlimited access to network resources
+2014-02-25 18:57:46.127 EnergyControl[50421:80b] [CDVTimer][splashscreen] 264.171004ms
+2014-02-25 18:57:46.127 EnergyControl[50421:80b] [CDVTimer][TotalPluginStartup] 264.600992ms
+2014-02-25 18:57:46.284 EnergyControl[50421:80b] Resetting plugins due to page load.
+2014-02-25 18:57:47.406 EnergyControl[50421:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-25 19:00:29.249 EnergyControl[50714:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-25 19:00:29.261 EnergyControl[50714:80b] Unlimited access to network resources
+2014-02-25 19:00:29.298 EnergyControl[50714:80b] [CDVTimer][splashscreen] 9.725988ms
+2014-02-25 19:00:29.298 EnergyControl[50714:80b] [CDVTimer][TotalPluginStartup] 10.558963ms
+2014-02-25 19:00:29.507 EnergyControl[50714:80b] Resetting plugins due to page load.
+2014-02-25 19:00:29.843 EnergyControl[50714:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-25 19:00:55.060 EnergyControl[51008:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-25 19:00:55.072 EnergyControl[51008:80b] Unlimited access to network resources
+2014-02-25 19:00:55.108 EnergyControl[51008:80b] [CDVTimer][splashscreen] 12.453020ms
+2014-02-25 19:00:55.109 EnergyControl[51008:80b] [CDVTimer][TotalPluginStartup] 13.499975ms
+2014-02-25 19:00:55.263 EnergyControl[51008:80b] Resetting plugins due to page load.
+2014-02-25 19:00:55.624 EnergyControl[51008:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-25 19:01:29.608 EnergyControl[51293:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-25 19:01:29.617 EnergyControl[51293:80b] Unlimited access to network resources
+2014-02-25 19:01:29.649 EnergyControl[51293:80b] [CDVTimer][splashscreen] 10.122001ms
+2014-02-25 19:01:29.650 EnergyControl[51293:80b] [CDVTimer][TotalPluginStartup] 11.011004ms
+2014-02-25 19:01:29.866 EnergyControl[51293:80b] Resetting plugins due to page load.
+2014-02-25 19:01:30.455 EnergyControl[51293:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-25 19:02:21.538 EnergyControl[51293:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:02:21.538 EnergyControl[51293:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:02:22.912 EnergyControl[51293:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:02:22.912 EnergyControl[51293:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:04:24.374 EnergyControl[51606:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-25 19:04:24.382 EnergyControl[51606:80b] Unlimited access to network resources
+2014-02-25 19:04:24.410 EnergyControl[51606:80b] [CDVTimer][splashscreen] 7.535994ms
+2014-02-25 19:04:24.411 EnergyControl[51606:80b] [CDVTimer][TotalPluginStartup] 7.990003ms
+2014-02-25 19:04:24.586 EnergyControl[51606:80b] Resetting plugins due to page load.
+2014-02-25 19:04:25.012 EnergyControl[51606:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-25 19:05:02.516 EnergyControl[51896:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-25 19:05:02.526 EnergyControl[51896:80b] Unlimited access to network resources
+2014-02-25 19:05:02.561 EnergyControl[51896:80b] [CDVTimer][splashscreen] 13.285995ms
+2014-02-25 19:05:02.561 EnergyControl[51896:80b] [CDVTimer][TotalPluginStartup] 13.810992ms
+2014-02-25 19:05:02.796 EnergyControl[51896:80b] Resetting plugins due to page load.
+2014-02-25 19:05:03.229 EnergyControl[51896:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-25 19:14:59.239 EnergyControl[52412:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-25 19:14:59.275 EnergyControl[52412:80b] Unlimited access to network resources
+2014-02-25 19:14:59.299 EnergyControl[52412:80b] [CDVTimer][splashscreen] 7.125974ms
+2014-02-25 19:14:59.300 EnergyControl[52412:80b] [CDVTimer][TotalPluginStartup] 7.535994ms
+2014-02-25 19:14:59.432 EnergyControl[52412:80b] Resetting plugins due to page load.
+2014-02-25 19:14:59.956 EnergyControl[52412:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-25 19:15:03.131 EnergyControl[52412:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:15:03.131 EnergyControl[52412:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:15:04.184 EnergyControl[52412:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:15:04.184 EnergyControl[52412:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:16:11.826 EnergyControl[52703:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-25 19:16:11.835 EnergyControl[52703:80b] Unlimited access to network resources
+2014-02-25 19:16:11.862 EnergyControl[52703:80b] [CDVTimer][splashscreen] 7.634997ms
+2014-02-25 19:16:11.862 EnergyControl[52703:80b] [CDVTimer][TotalPluginStartup] 8.082986ms
+2014-02-25 19:16:12.066 EnergyControl[52703:80b] Resetting plugins due to page load.
+2014-02-25 19:16:12.454 EnergyControl[52703:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-25 19:16:45.387 EnergyControl[52703:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:16:45.387 EnergyControl[52703:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:16:46.419 EnergyControl[52703:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:16:46.420 EnergyControl[52703:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:18:32.366 EnergyControl[53002:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-25 19:18:32.376 EnergyControl[53002:80b] Unlimited access to network resources
+2014-02-25 19:18:32.410 EnergyControl[53002:80b] [CDVTimer][splashscreen] 11.026025ms
+2014-02-25 19:18:32.411 EnergyControl[53002:80b] [CDVTimer][TotalPluginStartup] 11.863947ms
+2014-02-25 19:18:32.636 EnergyControl[53002:80b] Resetting plugins due to page load.
+2014-02-25 19:18:33.196 EnergyControl[53002:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-25 19:18:35.944 EnergyControl[53002:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:18:35.944 EnergyControl[53002:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:18:36.846 EnergyControl[53002:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:18:36.846 EnergyControl[53002:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:20:50.155 EnergyControl[53301:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-25 19:20:50.162 EnergyControl[53301:80b] Unlimited access to network resources
+2014-02-25 19:20:50.204 EnergyControl[53301:80b] [CDVTimer][splashscreen] 11.625051ms
+2014-02-25 19:20:50.204 EnergyControl[53301:80b] [CDVTimer][TotalPluginStartup] 12.088001ms
+2014-02-25 19:20:50.417 EnergyControl[53301:80b] Resetting plugins due to page load.
+2014-02-25 19:20:50.798 EnergyControl[53301:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-25 19:21:10.415 EnergyControl[53301:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:21:10.416 EnergyControl[53301:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:21:12.001 EnergyControl[53301:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:21:12.001 EnergyControl[53301:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:23:26.396 EnergyControl[53604:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-25 19:23:26.410 EnergyControl[53604:80b] Unlimited access to network resources
+2014-02-25 19:23:26.457 EnergyControl[53604:80b] [CDVTimer][splashscreen] 16.291022ms
+2014-02-25 19:23:26.458 EnergyControl[53604:80b] [CDVTimer][TotalPluginStartup] 17.700970ms
+2014-02-25 19:23:26.769 EnergyControl[53604:80b] Resetting plugins due to page load.
+2014-02-25 19:23:27.271 EnergyControl[53604:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-25 19:24:14.257 EnergyControl[53604:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:24:14.257 EnergyControl[53604:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:24:25.375 EnergyControl[53604:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:24:25.376 EnergyControl[53604:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:24:27.168 EnergyControl[53604:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:24:27.169 EnergyControl[53604:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:25:00.083 EnergyControl[53898:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-25 19:25:00.093 EnergyControl[53898:80b] Unlimited access to network resources
+2014-02-25 19:25:00.125 EnergyControl[53898:80b] [CDVTimer][splashscreen] 10.505021ms
+2014-02-25 19:25:00.126 EnergyControl[53898:80b] [CDVTimer][TotalPluginStartup] 11.442959ms
+2014-02-25 19:25:00.342 EnergyControl[53898:80b] Resetting plugins due to page load.
+2014-02-25 19:25:00.826 EnergyControl[53898:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-25 19:25:04.021 EnergyControl[53898:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:25:04.021 EnergyControl[53898:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:25:05.433 EnergyControl[53898:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:25:05.433 EnergyControl[53898:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:25:07.096 EnergyControl[53898:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:25:07.097 EnergyControl[53898:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:25:43.237 EnergyControl[54187:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-25 19:25:43.246 EnergyControl[54187:80b] Unlimited access to network resources
+2014-02-25 19:25:43.279 EnergyControl[54187:80b] [CDVTimer][splashscreen] 9.664059ms
+2014-02-25 19:25:43.279 EnergyControl[54187:80b] [CDVTimer][TotalPluginStartup] 10.197997ms
+2014-02-25 19:25:43.485 EnergyControl[54187:80b] Resetting plugins due to page load.
+2014-02-25 19:25:43.998 EnergyControl[54187:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-25 19:25:50.828 EnergyControl[54187:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:25:50.828 EnergyControl[54187:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:25:54.885 EnergyControl[54187:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:25:54.886 EnergyControl[54187:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:28:35.912 EnergyControl[54492:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-25 19:28:35.921 EnergyControl[54492:80b] Unlimited access to network resources
+2014-02-25 19:28:35.954 EnergyControl[54492:80b] [CDVTimer][splashscreen] 9.881973ms
+2014-02-25 19:28:35.954 EnergyControl[54492:80b] [CDVTimer][TotalPluginStartup] 10.439038ms
+2014-02-25 19:28:36.156 EnergyControl[54492:80b] Resetting plugins due to page load.
+2014-02-25 19:28:36.647 EnergyControl[54492:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-25 19:29:35.917 EnergyControl[54492:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:29:35.918 EnergyControl[54492:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:29:37.919 EnergyControl[54492:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:29:37.920 EnergyControl[54492:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:30:57.791 EnergyControl[54792:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-25 19:30:57.797 EnergyControl[54792:80b] Unlimited access to network resources
+2014-02-25 19:30:57.825 EnergyControl[54792:80b] [CDVTimer][splashscreen] 8.966029ms
+2014-02-25 19:30:57.826 EnergyControl[54792:80b] [CDVTimer][TotalPluginStartup] 9.525001ms
+2014-02-25 19:30:58.010 EnergyControl[54792:80b] Resetting plugins due to page load.
+2014-02-25 19:30:58.412 EnergyControl[54792:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-25 19:31:07.070 EnergyControl[54792:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:31:07.071 EnergyControl[54792:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:31:07.960 EnergyControl[54792:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:31:07.960 EnergyControl[54792:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:31:35.154 EnergyControl[55081:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-25 19:31:35.164 EnergyControl[55081:80b] Unlimited access to network resources
+2014-02-25 19:31:35.196 EnergyControl[55081:80b] [CDVTimer][splashscreen] 10.304987ms
+2014-02-25 19:31:35.197 EnergyControl[55081:80b] [CDVTimer][TotalPluginStartup] 11.141002ms
+2014-02-25 19:31:35.438 EnergyControl[55081:80b] Resetting plugins due to page load.
+2014-02-25 19:31:35.864 EnergyControl[55081:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-25 19:31:40.582 EnergyControl[55081:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:31:40.582 EnergyControl[55081:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:31:42.836 EnergyControl[55081:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:31:42.836 EnergyControl[55081:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:34:25.261 EnergyControl[55081:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:34:25.261 EnergyControl[55081:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:34:37.556 EnergyControl[55081:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:34:37.557 EnergyControl[55081:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:36:01.651 EnergyControl[55081:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:36:01.652 EnergyControl[55081:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:41:12.022 EnergyControl[55398:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-25 19:41:12.032 EnergyControl[55398:80b] Unlimited access to network resources
+2014-02-25 19:41:12.068 EnergyControl[55398:80b] [CDVTimer][splashscreen] 11.300981ms
+2014-02-25 19:41:12.087 EnergyControl[55398:80b] [CDVTimer][TotalPluginStartup] 30.191004ms
+2014-02-25 19:41:12.284 EnergyControl[55398:80b] Resetting plugins due to page load.
+2014-02-25 19:41:13.676 EnergyControl[55398:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-25 19:41:18.895 EnergyControl[55398:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:41:18.895 EnergyControl[55398:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:41:20.427 EnergyControl[55398:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:41:20.428 EnergyControl[55398:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:42:06.942 EnergyControl[55687:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-25 19:42:06.952 EnergyControl[55687:80b] Unlimited access to network resources
+2014-02-25 19:42:06.983 EnergyControl[55687:80b] [CDVTimer][splashscreen] 9.984016ms
+2014-02-25 19:42:06.984 EnergyControl[55687:80b] [CDVTimer][TotalPluginStartup] 10.510027ms
+2014-02-25 19:42:07.209 EnergyControl[55687:80b] Resetting plugins due to page load.
+2014-02-25 19:42:07.693 EnergyControl[55687:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-25 19:42:30.603 EnergyControl[55687:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:42:30.604 EnergyControl[55687:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:42:31.649 EnergyControl[55687:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:42:31.650 EnergyControl[55687:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:43:50.710 EnergyControl[55980:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-25 19:43:50.719 EnergyControl[55980:80b] Unlimited access to network resources
+2014-02-25 19:43:50.751 EnergyControl[55980:80b] [CDVTimer][splashscreen] 10.002971ms
+2014-02-25 19:43:50.751 EnergyControl[55980:80b] [CDVTimer][TotalPluginStartup] 10.535002ms
+2014-02-25 19:43:51.039 EnergyControl[55980:80b] Resetting plugins due to page load.
+2014-02-25 19:43:51.538 EnergyControl[55980:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-25 19:43:55.580 EnergyControl[55980:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:43:55.580 EnergyControl[55980:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:43:56.553 EnergyControl[55980:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:43:56.553 EnergyControl[55980:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:44:46.949 EnergyControl[56273:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-25 19:44:46.958 EnergyControl[56273:80b] Unlimited access to network resources
+2014-02-25 19:44:46.989 EnergyControl[56273:80b] [CDVTimer][splashscreen] 9.401977ms
+2014-02-25 19:44:46.990 EnergyControl[56273:80b] [CDVTimer][TotalPluginStartup] 10.169983ms
+2014-02-25 19:44:47.212 EnergyControl[56273:80b] Resetting plugins due to page load.
+2014-02-25 19:44:48.521 EnergyControl[56273:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-25 19:47:01.477 EnergyControl[56273:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:47:01.477 EnergyControl[56273:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:47:02.676 EnergyControl[56273:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:47:02.676 EnergyControl[56273:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:50:53.568 EnergyControl[56582:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-25 19:50:53.578 EnergyControl[56582:80b] Unlimited access to network resources
+2014-02-25 19:50:53.610 EnergyControl[56582:80b] [CDVTimer][splashscreen] 10.550976ms
+2014-02-25 19:50:53.611 EnergyControl[56582:80b] [CDVTimer][TotalPluginStartup] 11.090040ms
+2014-02-25 19:50:53.860 EnergyControl[56582:80b] Resetting plugins due to page load.
+2014-02-25 19:50:54.339 EnergyControl[56582:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-25 19:50:56.684 EnergyControl[56582:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:50:56.685 EnergyControl[56582:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:50:57.741 EnergyControl[56582:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:50:57.741 EnergyControl[56582:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:51:36.576 EnergyControl[56582:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:51:36.576 EnergyControl[56582:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:51:57.472 EnergyControl[56582:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:51:57.472 EnergyControl[56582:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:51:58.320 EnergyControl[56582:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 19:51:58.320 EnergyControl[56582:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
