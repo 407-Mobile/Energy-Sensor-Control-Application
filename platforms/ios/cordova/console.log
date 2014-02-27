@@ -409,3 +409,621 @@ Terminating in response to SpringBoard's termination.
 2014-02-25 19:51:57.472 EnergyControl[56582:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
 2014-02-25 19:51:58.320 EnergyControl[56582:80b] CDVWebViewDelegate: Navigation started when state=1
 2014-02-25 19:51:58.320 EnergyControl[56582:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 23:54:18.501 EnergyControl[57901:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-25 23:54:18.749 EnergyControl[57901:80b] Unlimited access to network resources
+2014-02-25 23:54:21.391 EnergyControl[57901:80b] [CDVTimer][splashscreen] 212.032020ms
+2014-02-25 23:54:21.392 EnergyControl[57901:80b] [CDVTimer][TotalPluginStartup] 213.597000ms
+2014-02-25 23:54:21.528 EnergyControl[57901:80b] Resetting plugins due to page load.
+2014-02-25 23:54:22.366 EnergyControl[57901:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-25 23:54:33.450 EnergyControl[57901:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 23:54:33.451 EnergyControl[57901:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 23:54:34.967 EnergyControl[57901:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 23:54:34.967 EnergyControl[57901:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 23:55:23.285 EnergyControl[57901:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 23:55:23.286 EnergyControl[57901:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 23:58:11.783 EnergyControl[57901:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 23:58:11.821 EnergyControl[57901:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 23:58:13.539 EnergyControl[57901:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 23:58:13.539 EnergyControl[57901:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 23:58:26.628 EnergyControl[57901:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-25 23:58:26.691 EnergyControl[57901:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 00:00:42.900 EnergyControl[57901:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 00:00:42.967 EnergyControl[57901:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 00:00:53.177 EnergyControl[57901:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 00:00:53.178 EnergyControl[57901:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 00:01:06.983 EnergyControl[57901:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 00:01:06.983 EnergyControl[57901:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 15:44:11.099 EnergyControl[59721:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 15:44:11.170 EnergyControl[59721:80b] Unlimited access to network resources
+2014-02-26 15:44:11.195 EnergyControl[59721:80b] [CDVTimer][splashscreen] 7.111967ms
+2014-02-26 15:44:11.195 EnergyControl[59721:80b] [CDVTimer][TotalPluginStartup] 7.532001ms
+2014-02-26 15:44:11.327 EnergyControl[59721:80b] Resetting plugins due to page load.
+2014-02-26 15:44:12.420 EnergyControl[59721:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 15:46:34.401 EnergyControl[59721:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 15:46:34.413 EnergyControl[59721:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 15:46:35.572 EnergyControl[59721:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 15:46:35.572 EnergyControl[59721:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 15:46:54.801 EnergyControl[59721:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 15:46:54.802 EnergyControl[59721:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 15:56:21.923 EnergyControl[59721:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 15:56:21.923 EnergyControl[59721:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 16:06:48.491 EnergyControl[59721:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 16:06:48.491 EnergyControl[59721:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 16:06:49.755 EnergyControl[59721:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 16:06:49.755 EnergyControl[59721:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 16:07:07.701 EnergyControl[59721:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 16:07:07.701 EnergyControl[59721:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 19:32:30.490 EnergyControl[61096:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 19:32:30.693 EnergyControl[61096:80b] Unlimited access to network resources
+2014-02-26 19:32:32.512 EnergyControl[61096:80b] [CDVTimer][splashscreen] 288.486958ms
+2014-02-26 19:32:32.512 EnergyControl[61096:80b] [CDVTimer][TotalPluginStartup] 288.927019ms
+2014-02-26 19:32:32.688 EnergyControl[61096:80b] Resetting plugins due to page load.
+2014-02-26 19:32:33.782 EnergyControl[61096:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 19:34:44.068 EnergyControl[61096:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 19:34:44.068 EnergyControl[61096:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 19:36:05.940 EnergyControl[61392:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 19:36:05.956 EnergyControl[61392:80b] Unlimited access to network resources
+2014-02-26 19:36:06.006 EnergyControl[61392:80b] [CDVTimer][splashscreen] 14.240980ms
+2014-02-26 19:36:06.008 EnergyControl[61392:80b] [CDVTimer][TotalPluginStartup] 16.530037ms
+2014-02-26 19:36:06.288 EnergyControl[61392:80b] Resetting plugins due to page load.
+2014-02-26 19:36:06.959 EnergyControl[61392:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 19:36:46.623 EnergyControl[61392:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 19:36:46.623 EnergyControl[61392:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 19:41:45.665 EnergyControl[61705:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 19:41:45.674 EnergyControl[61705:80b] Unlimited access to network resources
+2014-02-26 19:41:45.707 EnergyControl[61705:80b] [CDVTimer][splashscreen] 10.282993ms
+2014-02-26 19:41:45.707 EnergyControl[61705:80b] [CDVTimer][TotalPluginStartup] 10.864019ms
+2014-02-26 19:41:45.929 EnergyControl[61705:80b] Resetting plugins due to page load.
+2014-02-26 19:41:46.308 EnergyControl[61705:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 19:44:11.177 EnergyControl[61705:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 19:44:11.177 EnergyControl[61705:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 19:44:15.579 EnergyControl[61705:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 19:44:15.580 EnergyControl[61705:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 19:44:20.031 EnergyControl[61705:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 19:44:20.032 EnergyControl[61705:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 19:46:39.763 EnergyControl[62015:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 19:46:39.775 EnergyControl[62015:80b] Unlimited access to network resources
+2014-02-26 19:46:39.811 EnergyControl[62015:80b] [CDVTimer][splashscreen] 11.581004ms
+2014-02-26 19:46:39.812 EnergyControl[62015:80b] [CDVTimer][TotalPluginStartup] 12.576997ms
+2014-02-26 19:46:40.059 EnergyControl[62015:80b] Resetting plugins due to page load.
+2014-02-26 19:46:40.581 EnergyControl[62015:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 19:47:19.639 EnergyControl[62015:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 19:47:19.639 EnergyControl[62015:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 19:48:14.934 EnergyControl[62315:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 19:48:14.944 EnergyControl[62315:80b] Unlimited access to network resources
+2014-02-26 19:48:14.980 EnergyControl[62315:80b] [CDVTimer][splashscreen] 11.783004ms
+2014-02-26 19:48:14.981 EnergyControl[62315:80b] [CDVTimer][TotalPluginStartup] 12.355983ms
+2014-02-26 19:48:15.202 EnergyControl[62315:80b] Resetting plugins due to page load.
+2014-02-26 19:48:15.599 EnergyControl[62315:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 19:48:39.131 EnergyControl[62315:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 19:48:39.132 EnergyControl[62315:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 19:49:27.215 EnergyControl[62608:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 19:49:27.225 EnergyControl[62608:80b] Unlimited access to network resources
+2014-02-26 19:49:27.257 EnergyControl[62608:80b] [CDVTimer][splashscreen] 10.707974ms
+2014-02-26 19:49:27.258 EnergyControl[62608:80b] [CDVTimer][TotalPluginStartup] 11.604011ms
+2014-02-26 19:49:27.472 EnergyControl[62608:80b] Resetting plugins due to page load.
+2014-02-26 19:49:27.953 EnergyControl[62608:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 19:49:32.293 EnergyControl[62608:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 19:49:32.293 EnergyControl[62608:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 19:54:30.628 EnergyControl[62915:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 19:54:30.638 EnergyControl[62915:80b] Unlimited access to network resources
+2014-02-26 19:54:30.670 EnergyControl[62915:80b] [CDVTimer][splashscreen] 9.930015ms
+2014-02-26 19:54:30.671 EnergyControl[62915:80b] [CDVTimer][TotalPluginStartup] 10.935009ms
+2014-02-26 19:54:30.856 EnergyControl[62915:80b] Resetting plugins due to page load.
+2014-02-26 19:54:31.357 EnergyControl[62915:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 19:54:36.038 EnergyControl[62915:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 19:54:36.039 EnergyControl[62915:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 19:56:05.533 EnergyControl[63211:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 19:56:05.543 EnergyControl[63211:80b] Unlimited access to network resources
+2014-02-26 19:56:05.575 EnergyControl[63211:80b] [CDVTimer][splashscreen] 9.873986ms
+2014-02-26 19:56:05.576 EnergyControl[63211:80b] [CDVTimer][TotalPluginStartup] 10.737002ms
+2014-02-26 19:56:05.789 EnergyControl[63211:80b] Resetting plugins due to page load.
+2014-02-26 19:56:06.228 EnergyControl[63211:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 19:56:19.274 EnergyControl[63211:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 19:56:19.275 EnergyControl[63211:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:00:59.454 EnergyControl[63521:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 20:00:59.464 EnergyControl[63521:80b] Unlimited access to network resources
+2014-02-26 20:00:59.536 EnergyControl[63521:80b] [CDVTimer][splashscreen] 10.262012ms
+2014-02-26 20:00:59.537 EnergyControl[63521:80b] [CDVTimer][TotalPluginStartup] 11.116028ms
+2014-02-26 20:00:59.745 EnergyControl[63521:80b] Resetting plugins due to page load.
+2014-02-26 20:01:00.128 EnergyControl[63521:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 20:01:02.316 EnergyControl[63521:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:01:02.316 EnergyControl[63521:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:01:03.470 EnergyControl[63521:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:01:03.470 EnergyControl[63521:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:02:47.865 EnergyControl[63818:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 20:02:47.873 EnergyControl[63818:80b] Unlimited access to network resources
+2014-02-26 20:02:47.903 EnergyControl[63818:80b] [CDVTimer][splashscreen] 9.761035ms
+2014-02-26 20:02:47.903 EnergyControl[63818:80b] [CDVTimer][TotalPluginStartup] 10.412991ms
+2014-02-26 20:02:48.152 EnergyControl[63818:80b] Resetting plugins due to page load.
+2014-02-26 20:02:48.554 EnergyControl[63818:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 20:03:31.525 EnergyControl[63818:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:03:31.525 EnergyControl[63818:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:04:13.357 EnergyControl[64109:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 20:04:13.367 EnergyControl[64109:80b] Unlimited access to network resources
+2014-02-26 20:04:13.399 EnergyControl[64109:80b] [CDVTimer][splashscreen] 9.332001ms
+2014-02-26 20:04:13.400 EnergyControl[64109:80b] [CDVTimer][TotalPluginStartup] 10.233998ms
+2014-02-26 20:04:13.612 EnergyControl[64109:80b] Resetting plugins due to page load.
+2014-02-26 20:04:14.012 EnergyControl[64109:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 20:04:22.697 EnergyControl[64109:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:04:22.698 EnergyControl[64109:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:05:25.495 EnergyControl[64403:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 20:05:25.506 EnergyControl[64403:80b] Unlimited access to network resources
+2014-02-26 20:05:25.542 EnergyControl[64403:80b] [CDVTimer][splashscreen] 10.110021ms
+2014-02-26 20:05:25.542 EnergyControl[64403:80b] [CDVTimer][TotalPluginStartup] 10.969043ms
+2014-02-26 20:05:25.771 EnergyControl[64403:80b] Resetting plugins due to page load.
+2014-02-26 20:05:26.211 EnergyControl[64403:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 20:05:29.600 EnergyControl[64403:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:05:29.601 EnergyControl[64403:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:08:39.998 EnergyControl[64706:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 20:08:40.007 EnergyControl[64706:80b] Unlimited access to network resources
+2014-02-26 20:08:40.037 EnergyControl[64706:80b] [CDVTimer][splashscreen] 9.407043ms
+2014-02-26 20:08:40.037 EnergyControl[64706:80b] [CDVTimer][TotalPluginStartup] 9.970963ms
+2014-02-26 20:08:40.260 EnergyControl[64706:80b] Resetting plugins due to page load.
+2014-02-26 20:08:40.677 EnergyControl[64706:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 20:08:58.199 EnergyControl[64706:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:08:58.199 EnergyControl[64706:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:10:59.800 EnergyControl[65008:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 20:10:59.807 EnergyControl[65008:80b] Unlimited access to network resources
+2014-02-26 20:10:59.835 EnergyControl[65008:80b] [CDVTimer][splashscreen] 7.937014ms
+2014-02-26 20:10:59.835 EnergyControl[65008:80b] [CDVTimer][TotalPluginStartup] 8.501947ms
+2014-02-26 20:11:00.105 EnergyControl[65008:80b] Resetting plugins due to page load.
+2014-02-26 20:11:00.523 EnergyControl[65008:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 20:11:12.324 EnergyControl[65008:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:11:12.325 EnergyControl[65008:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:11:56.104 EnergyControl[65297:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 20:11:56.131 EnergyControl[65297:80b] Unlimited access to network resources
+2014-02-26 20:11:56.163 EnergyControl[65297:80b] [CDVTimer][splashscreen] 11.021972ms
+2014-02-26 20:11:56.164 EnergyControl[65297:80b] [CDVTimer][TotalPluginStartup] 12.099981ms
+2014-02-26 20:11:56.380 EnergyControl[65297:80b] Resetting plugins due to page load.
+2014-02-26 20:11:56.940 EnergyControl[65297:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 20:12:00.260 EnergyControl[65297:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:12:00.260 EnergyControl[65297:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:12:48.979 EnergyControl[65588:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 20:12:49.002 EnergyControl[65588:80b] Unlimited access to network resources
+2014-02-26 20:12:49.035 EnergyControl[65588:80b] [CDVTimer][splashscreen] 10.087013ms
+2014-02-26 20:12:49.036 EnergyControl[65588:80b] [CDVTimer][TotalPluginStartup] 10.932028ms
+2014-02-26 20:12:49.345 EnergyControl[65588:80b] Resetting plugins due to page load.
+2014-02-26 20:12:49.771 EnergyControl[65588:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 20:12:53.260 EnergyControl[65588:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:12:53.260 EnergyControl[65588:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:13:28.901 EnergyControl[65878:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 20:13:28.914 EnergyControl[65878:80b] Unlimited access to network resources
+2014-02-26 20:13:28.946 EnergyControl[65878:80b] [CDVTimer][splashscreen] 10.375023ms
+2014-02-26 20:13:28.947 EnergyControl[65878:80b] [CDVTimer][TotalPluginStartup] 10.913014ms
+2014-02-26 20:13:29.167 EnergyControl[65878:80b] Resetting plugins due to page load.
+2014-02-26 20:13:29.654 EnergyControl[65878:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 20:13:32.191 EnergyControl[65878:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:13:32.192 EnergyControl[65878:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:14:32.626 EnergyControl[65878:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:14:32.626 EnergyControl[65878:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:15:59.264 EnergyControl[65878:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:15:59.264 EnergyControl[65878:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-26 20:27:34.524 EnergyControl[66202:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 20:27:34.532 EnergyControl[66202:80b] Unlimited access to network resources
+2014-02-26 20:27:34.572 EnergyControl[66202:80b] [CDVTimer][splashscreen] 17.665029ms
+2014-02-26 20:27:34.572 EnergyControl[66202:80b] [CDVTimer][TotalPluginStartup] 18.209994ms
+2014-02-26 20:27:34.752 EnergyControl[66202:80b] Resetting plugins due to page load.
+2014-02-26 20:27:34.828 EnergyControl[66202:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 20:28:58.291 EnergyControl[66499:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 20:28:58.320 EnergyControl[66499:80b] Unlimited access to network resources
+2014-02-26 20:28:58.351 EnergyControl[66499:80b] [CDVTimer][splashscreen] 9.324014ms
+2014-02-26 20:28:58.351 EnergyControl[66499:80b] [CDVTimer][TotalPluginStartup] 9.974003ms
+2014-02-26 20:28:58.561 EnergyControl[66499:80b] Resetting plugins due to page load.
+2014-02-26 20:28:59.026 EnergyControl[66499:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 20:30:49.480 EnergyControl[66802:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 20:30:49.494 EnergyControl[66802:80b] Unlimited access to network resources
+2014-02-26 20:30:49.547 EnergyControl[66802:80b] [CDVTimer][splashscreen] 13.885021ms
+2014-02-26 20:30:49.551 EnergyControl[66802:80b] [CDVTimer][TotalPluginStartup] 18.103004ms
+2014-02-26 20:30:49.838 EnergyControl[66802:80b] Resetting plugins due to page load.
+2014-02-26 20:30:50.306 EnergyControl[66802:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 20:31:45.067 EnergyControl[67102:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 20:31:45.175 EnergyControl[67102:80b] Unlimited access to network resources
+2014-02-26 20:31:45.199 EnergyControl[67102:80b] [CDVTimer][splashscreen] 8.077025ms
+2014-02-26 20:31:45.200 EnergyControl[67102:80b] [CDVTimer][TotalPluginStartup] 8.495986ms
+2014-02-26 20:31:45.351 EnergyControl[67102:80b] Resetting plugins due to page load.
+2014-02-26 20:31:45.749 EnergyControl[67102:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 20:33:37.862 EnergyControl[67403:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 20:33:37.872 EnergyControl[67403:80b] Unlimited access to network resources
+2014-02-26 20:33:37.907 EnergyControl[67403:80b] [CDVTimer][splashscreen] 10.048032ms
+2014-02-26 20:33:37.908 EnergyControl[67403:80b] [CDVTimer][TotalPluginStartup] 10.892034ms
+2014-02-26 20:33:38.105 EnergyControl[67403:80b] Resetting plugins due to page load.
+2014-02-26 20:33:38.692 EnergyControl[67403:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 20:34:53.466 EnergyControl[67700:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 20:34:53.477 EnergyControl[67700:80b] Unlimited access to network resources
+2014-02-26 20:34:53.509 EnergyControl[67700:80b] [CDVTimer][splashscreen] 9.137988ms
+2014-02-26 20:34:53.509 EnergyControl[67700:80b] [CDVTimer][TotalPluginStartup] 9.653986ms
+2014-02-26 20:34:53.694 EnergyControl[67700:80b] Resetting plugins due to page load.
+2014-02-26 20:34:54.941 EnergyControl[67700:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 20:36:41.731 EnergyControl[67995:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 20:36:41.742 EnergyControl[67995:80b] Unlimited access to network resources
+2014-02-26 20:36:41.781 EnergyControl[67995:80b] [CDVTimer][splashscreen] 15.766978ms
+2014-02-26 20:36:41.782 EnergyControl[67995:80b] [CDVTimer][TotalPluginStartup] 16.299963ms
+2014-02-26 20:36:42.001 EnergyControl[67995:80b] Resetting plugins due to page load.
+2014-02-26 20:36:42.562 EnergyControl[67995:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 20:38:07.374 EnergyControl[68300:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 20:38:07.392 EnergyControl[68300:80b] Unlimited access to network resources
+2014-02-26 20:38:07.418 EnergyControl[68300:80b] [CDVTimer][splashscreen] 8.471012ms
+2014-02-26 20:38:07.418 EnergyControl[68300:80b] [CDVTimer][TotalPluginStartup] 8.901954ms
+2014-02-26 20:38:07.504 EnergyControl[68300:80b] Resetting plugins due to page load.
+2014-02-26 20:38:07.894 EnergyControl[68300:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextSaveGState: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextSetFlatness: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextAddPath: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextDrawPath: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextRestoreGState: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextSaveGState: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextSetFlatness: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextAddPath: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextDrawPath: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextRestoreGState: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextGetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextFillRects: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextGetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextFillRects: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextGetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextFillRects: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 20:38:59 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[68300] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+2014-02-26 20:40:01.261 EnergyControl[68593:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 20:40:01.301 EnergyControl[68593:80b] Unlimited access to network resources
+2014-02-26 20:40:01.330 EnergyControl[68593:80b] [CDVTimer][splashscreen] 10.146976ms
+2014-02-26 20:40:01.330 EnergyControl[68593:80b] [CDVTimer][TotalPluginStartup] 10.613024ms
+2014-02-26 20:40:01.495 EnergyControl[68593:80b] Resetting plugins due to page load.
+2014-02-26 20:40:01.961 EnergyControl[68593:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 20:40:48.881 EnergyControl[68890:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 20:40:48.907 EnergyControl[68890:80b] Unlimited access to network resources
+2014-02-26 20:40:48.936 EnergyControl[68890:80b] [CDVTimer][splashscreen] 10.777950ms
+2014-02-26 20:40:48.937 EnergyControl[68890:80b] [CDVTimer][TotalPluginStartup] 11.506021ms
+2014-02-26 20:40:49.164 EnergyControl[68890:80b] Resetting plugins due to page load.
+2014-02-26 20:40:51.237 EnergyControl[68890:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 20:55:12.401 EnergyControl[69500:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 20:55:12.413 EnergyControl[69500:80b] Unlimited access to network resources
+2014-02-26 20:55:12.449 EnergyControl[69500:80b] [CDVTimer][splashscreen] 11.592984ms
+2014-02-26 20:55:12.450 EnergyControl[69500:80b] [CDVTimer][TotalPluginStartup] 12.516975ms
+2014-02-26 20:55:12.708 EnergyControl[69500:80b] Resetting plugins due to page load.
+2014-02-26 20:55:13.205 EnergyControl[69500:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 20:56:27.033 EnergyControl[69799:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 20:56:27.078 EnergyControl[69799:80b] Unlimited access to network resources
+2014-02-26 20:56:27.111 EnergyControl[69799:80b] [CDVTimer][splashscreen] 10.633051ms
+2014-02-26 20:56:27.111 EnergyControl[69799:80b] [CDVTimer][TotalPluginStartup] 11.191964ms
+2014-02-26 20:56:27.287 EnergyControl[69799:80b] Resetting plugins due to page load.
+2014-02-26 20:56:27.738 EnergyControl[69799:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 20:57:54.617 EnergyControl[70098:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 20:57:54.641 EnergyControl[70098:80b] Unlimited access to network resources
+2014-02-26 20:57:54.672 EnergyControl[70098:80b] [CDVTimer][splashscreen] 10.580003ms
+2014-02-26 20:57:54.673 EnergyControl[70098:80b] [CDVTimer][TotalPluginStartup] 11.080980ms
+2014-02-26 20:57:54.870 EnergyControl[70098:80b] Resetting plugins due to page load.
+2014-02-26 20:57:55.382 EnergyControl[70098:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 20:59:40.260 EnergyControl[70398:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 20:59:40.270 EnergyControl[70398:80b] Unlimited access to network resources
+2014-02-26 20:59:40.301 EnergyControl[70398:80b] [CDVTimer][splashscreen] 9.812951ms
+2014-02-26 20:59:40.301 EnergyControl[70398:80b] [CDVTimer][TotalPluginStartup] 10.354042ms
+2014-02-26 20:59:40.520 EnergyControl[70398:80b] Resetting plugins due to page load.
+2014-02-26 20:59:40.941 EnergyControl[70398:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 21:00:06.909 EnergyControl[70694:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 21:00:06.924 EnergyControl[70694:80b] Unlimited access to network resources
+2014-02-26 21:00:06.961 EnergyControl[70694:80b] [CDVTimer][splashscreen] 11.407018ms
+2014-02-26 21:00:06.962 EnergyControl[70694:80b] [CDVTimer][TotalPluginStartup] 12.023985ms
+2014-02-26 21:00:07.201 EnergyControl[70694:80b] Resetting plugins due to page load.
+2014-02-26 21:00:07.707 EnergyControl[70694:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 21:02:03.918 EnergyControl[70990:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 21:02:03.925 EnergyControl[70990:80b] Unlimited access to network resources
+2014-02-26 21:02:03.952 EnergyControl[70990:80b] [CDVTimer][splashscreen] 8.028984ms
+2014-02-26 21:02:03.952 EnergyControl[70990:80b] [CDVTimer][TotalPluginStartup] 8.574009ms
+2014-02-26 21:02:04.119 EnergyControl[70990:80b] Resetting plugins due to page load.
+2014-02-26 21:02:04.587 EnergyControl[70990:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 21:07:08.985 EnergyControl[71306:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 21:07:09.029 EnergyControl[71306:80b] Unlimited access to network resources
+2014-02-26 21:07:09.057 EnergyControl[71306:80b] [CDVTimer][splashscreen] 7.483006ms
+2014-02-26 21:07:09.058 EnergyControl[71306:80b] [CDVTimer][TotalPluginStartup] 7.907987ms
+2014-02-26 21:07:09.195 EnergyControl[71306:80b] Resetting plugins due to page load.
+2014-02-26 21:07:10.039 EnergyControl[71306:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 21:08:13.757 EnergyControl[71600:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 21:08:13.784 EnergyControl[71600:80b] Unlimited access to network resources
+2014-02-26 21:08:13.812 EnergyControl[71600:80b] [CDVTimer][splashscreen] 7.094026ms
+2014-02-26 21:08:13.812 EnergyControl[71600:80b] [CDVTimer][TotalPluginStartup] 7.511973ms
+2014-02-26 21:08:13.933 EnergyControl[71600:80b] Resetting plugins due to page load.
+2014-02-26 21:08:14.370 EnergyControl[71600:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 21:10:15.711 EnergyControl[71903:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 21:10:15.721 EnergyControl[71903:80b] Unlimited access to network resources
+2014-02-26 21:10:15.755 EnergyControl[71903:80b] [CDVTimer][splashscreen] 10.268986ms
+2014-02-26 21:10:15.755 EnergyControl[71903:80b] [CDVTimer][TotalPluginStartup] 10.852039ms
+2014-02-26 21:10:15.989 EnergyControl[71903:80b] Resetting plugins due to page load.
+2014-02-26 21:10:52.401 EnergyControl[71903:4003] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-02-26 21:10:52.406 EnergyControl[71903:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 21:12:38.621 EnergyControl[72212:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 21:12:38.644 EnergyControl[72212:80b] Unlimited access to network resources
+2014-02-26 21:12:38.671 EnergyControl[72212:80b] [CDVTimer][splashscreen] 9.630024ms
+2014-02-26 21:12:38.672 EnergyControl[72212:80b] [CDVTimer][TotalPluginStartup] 10.047972ms
+2014-02-26 21:12:38.779 EnergyControl[72212:80b] Resetting plugins due to page load.
+2014-02-26 21:12:39.194 EnergyControl[72212:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextSaveGState: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextSetFlatness: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextAddPath: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextDrawPath: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextRestoreGState: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextSaveGState: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextSetFlatness: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextAddPath: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextDrawPath: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextRestoreGState: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextGetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextFillRects: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextGetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextFillRects: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextGetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextFillRects: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:13:28 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[72212] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+2014-02-26 21:21:44.190 EnergyControl[72826:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 21:21:44.200 EnergyControl[72826:80b] Unlimited access to network resources
+2014-02-26 21:21:44.242 EnergyControl[72826:80b] [CDVTimer][splashscreen] 15.066981ms
+2014-02-26 21:21:44.242 EnergyControl[72826:80b] [CDVTimer][TotalPluginStartup] 15.622020ms
+2014-02-26 21:21:44.509 EnergyControl[72826:80b] Resetting plugins due to page load.
+2014-02-26 21:21:45.084 EnergyControl[72826:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 21:24:47.843 EnergyControl[73135:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 21:24:47.886 EnergyControl[73135:80b] Unlimited access to network resources
+2014-02-26 21:24:47.910 EnergyControl[73135:80b] [CDVTimer][splashscreen] 7.203996ms
+2014-02-26 21:24:47.910 EnergyControl[73135:80b] [CDVTimer][TotalPluginStartup] 7.696033ms
+2014-02-26 21:24:48.041 EnergyControl[73135:80b] Resetting plugins due to page load.
+2014-02-26 21:24:48.692 EnergyControl[73135:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 21:27:31.000 EnergyControl[73440:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 21:27:31.072 EnergyControl[73440:80b] Unlimited access to network resources
+2014-02-26 21:27:31.103 EnergyControl[73440:80b] [CDVTimer][splashscreen] 9.755015ms
+2014-02-26 21:27:31.104 EnergyControl[73440:80b] [CDVTimer][TotalPluginStartup] 10.812998ms
+2014-02-26 21:27:31.293 EnergyControl[73440:80b] Resetting plugins due to page load.
+2014-02-26 21:27:32.053 EnergyControl[73440:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 21:28:26.385 EnergyControl[73736:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 21:28:26.395 EnergyControl[73736:80b] Unlimited access to network resources
+2014-02-26 21:28:26.424 EnergyControl[73736:80b] [CDVTimer][splashscreen] 9.230971ms
+2014-02-26 21:28:26.425 EnergyControl[73736:80b] [CDVTimer][TotalPluginStartup] 9.694040ms
+2014-02-26 21:28:26.608 EnergyControl[73736:80b] Resetting plugins due to page load.
+2014-02-26 21:28:27.059 EnergyControl[73736:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 21:29:23.056 EnergyControl[74030:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 21:29:23.210 EnergyControl[74030:80b] Unlimited access to network resources
+2014-02-26 21:29:23.238 EnergyControl[74030:80b] [CDVTimer][splashscreen] 10.344982ms
+2014-02-26 21:29:23.239 EnergyControl[74030:80b] [CDVTimer][TotalPluginStartup] 11.005044ms
+2014-02-26 21:29:23.412 EnergyControl[74030:80b] Resetting plugins due to page load.
+2014-02-26 21:31:39.448 EnergyControl[74030:4003] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-02-26 21:31:39.538 EnergyControl[74030:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 21:32:29.810 EnergyControl[74340:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 21:32:29.818 EnergyControl[74340:80b] Unlimited access to network resources
+2014-02-26 21:32:29.861 EnergyControl[74340:80b] [CDVTimer][splashscreen] 12.346029ms
+2014-02-26 21:32:29.861 EnergyControl[74340:80b] [CDVTimer][TotalPluginStartup] 12.905955ms
+2014-02-26 21:32:30.079 EnergyControl[74340:80b] Resetting plugins due to page load.
+2014-02-26 21:32:30.522 EnergyControl[74340:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 21:38:06.299 EnergyControl[74644:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 21:38:06.529 EnergyControl[74644:80b] Unlimited access to network resources
+2014-02-26 21:38:06.554 EnergyControl[74644:80b] [CDVTimer][splashscreen] 7.475019ms
+2014-02-26 21:38:06.555 EnergyControl[74644:80b] [CDVTimer][TotalPluginStartup] 7.882953ms
+2014-02-26 21:38:06.691 EnergyControl[74644:80b] Resetting plugins due to page load.
+2014-02-26 21:38:07.460 EnergyControl[74644:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 21:39:42.486 EnergyControl[74937:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 21:39:42.566 EnergyControl[74937:80b] Unlimited access to network resources
+2014-02-26 21:39:42.595 EnergyControl[74937:80b] [CDVTimer][splashscreen] 7.712007ms
+2014-02-26 21:39:42.595 EnergyControl[74937:80b] [CDVTimer][TotalPluginStartup] 8.267999ms
+2014-02-26 21:39:42.762 EnergyControl[74937:80b] Resetting plugins due to page load.
+2014-02-26 21:39:43.293 EnergyControl[74937:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 21:42:15.697 EnergyControl[75242:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 21:42:15.745 EnergyControl[75242:80b] Unlimited access to network resources
+2014-02-26 21:42:15.776 EnergyControl[75242:80b] [CDVTimer][splashscreen] 10.444999ms
+2014-02-26 21:42:15.777 EnergyControl[75242:80b] [CDVTimer][TotalPluginStartup] 10.968983ms
+2014-02-26 21:42:15.911 EnergyControl[75242:80b] Resetting plugins due to page load.
+2014-02-26 21:42:16.481 EnergyControl[75242:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 21:45:24.037 EnergyControl[75550:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 21:45:24.061 EnergyControl[75550:80b] Unlimited access to network resources
+2014-02-26 21:45:24.088 EnergyControl[75550:80b] [CDVTimer][splashscreen] 10.136962ms
+2014-02-26 21:45:24.088 EnergyControl[75550:80b] [CDVTimer][TotalPluginStartup] 10.538995ms
+2014-02-26 21:45:24.226 EnergyControl[75550:80b] Resetting plugins due to page load.
+2014-02-26 21:45:24.689 EnergyControl[75550:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 21:46:46.310 EnergyControl[75846:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 21:46:46.376 EnergyControl[75846:80b] Unlimited access to network resources
+2014-02-26 21:46:46.401 EnergyControl[75846:80b] [CDVTimer][splashscreen] 8.834958ms
+2014-02-26 21:46:46.402 EnergyControl[75846:80b] [CDVTimer][TotalPluginStartup] 9.389997ms
+2014-02-26 21:46:46.572 EnergyControl[75846:80b] Resetting plugins due to page load.
+2014-02-26 21:46:47.021 EnergyControl[75846:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/home.html
+2014-02-26 21:49:13.916 EnergyControl[76152:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 21:49:13.946 EnergyControl[76152:80b] Unlimited access to network resources
+2014-02-26 21:49:13.978 EnergyControl[76152:80b] [CDVTimer][splashscreen] 10.360003ms
+2014-02-26 21:49:13.979 EnergyControl[76152:80b] [CDVTimer][TotalPluginStartup] 10.917008ms
+2014-02-26 21:49:14.138 EnergyControl[76152:80b] Resetting plugins due to page load.
+2014-02-26 21:49:25.700 EnergyControl[76152:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 21:52:10.665 EnergyControl[76454:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 21:52:10.674 EnergyControl[76454:80b] Unlimited access to network resources
+2014-02-26 21:52:10.706 EnergyControl[76454:80b] [CDVTimer][splashscreen] 10.161996ms
+2014-02-26 21:52:10.707 EnergyControl[76454:80b] [CDVTimer][TotalPluginStartup] 10.926008ms
+2014-02-26 21:52:10.867 EnergyControl[76454:80b] Resetting plugins due to page load.
+2014-02-26 21:52:11.572 EnergyControl[76454:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextSaveGState: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextSetFlatness: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextAddPath: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextDrawPath: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextRestoreGState: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextSaveGState: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextSetFlatness: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextAddPath: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextDrawPath: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextRestoreGState: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextGetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextFillRects: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextGetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextFillRects: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextGetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextFillRects: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 21:54:00 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[76454] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+2014-02-26 21:57:11.355 EnergyControl[76764:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 21:57:11.386 EnergyControl[76764:80b] Unlimited access to network resources
+2014-02-26 21:57:11.916 EnergyControl[76764:80b] [CDVTimer][splashscreen] 493.480027ms
+2014-02-26 21:57:11.916 EnergyControl[76764:80b] [CDVTimer][TotalPluginStartup] 494.162023ms
+2014-02-26 21:57:13.265 EnergyControl[76764:80b] Resetting plugins due to page load.
+2014-02-26 21:57:13.881 EnergyControl[76764:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 21:59:50.617 EnergyControl[77067:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 21:59:50.662 EnergyControl[77067:80b] Unlimited access to network resources
+2014-02-26 21:59:50.688 EnergyControl[77067:80b] [CDVTimer][splashscreen] 7.772982ms
+2014-02-26 21:59:50.688 EnergyControl[77067:80b] [CDVTimer][TotalPluginStartup] 8.208990ms
+2014-02-26 21:59:50.841 EnergyControl[77067:80b] Resetting plugins due to page load.
+2014-02-26 21:59:51.724 EnergyControl[77067:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 22:06:24.246 EnergyControl[77397:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 22:06:24.321 EnergyControl[77397:80b] Unlimited access to network resources
+2014-02-26 22:06:24.523 EnergyControl[77397:80b] [CDVTimer][splashscreen] 181.318045ms
+2014-02-26 22:06:24.524 EnergyControl[77397:80b] [CDVTimer][TotalPluginStartup] 181.928039ms
+2014-02-26 22:06:24.738 EnergyControl[77397:80b] Resetting plugins due to page load.
+2014-02-26 22:06:25.955 EnergyControl[77397:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 22:09:52.037 EnergyControl[77699:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 22:09:52.061 EnergyControl[77699:80b] Unlimited access to network resources
+2014-02-26 22:09:52.094 EnergyControl[77699:80b] [CDVTimer][splashscreen] 10.033011ms
+2014-02-26 22:09:52.095 EnergyControl[77699:80b] [CDVTimer][TotalPluginStartup] 10.986984ms
+2014-02-26 22:09:52.344 EnergyControl[77699:80b] Resetting plugins due to page load.
+2014-02-26 22:09:53.070 EnergyControl[77699:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 22:11:34.966 EnergyControl[78001:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 22:11:34.996 EnergyControl[78001:80b] Unlimited access to network resources
+2014-02-26 22:11:35.025 EnergyControl[78001:80b] [CDVTimer][splashscreen] 7.663012ms
+2014-02-26 22:11:35.026 EnergyControl[78001:80b] [CDVTimer][TotalPluginStartup] 8.659005ms
+2014-02-26 22:11:35.207 EnergyControl[78001:80b] Resetting plugins due to page load.
+2014-02-26 22:12:39.429 EnergyControl[78001:4103] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-02-26 22:12:39.531 EnergyControl[78001:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 22:14:11.891 EnergyControl[78296:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 22:14:11.910 EnergyControl[78296:80b] Unlimited access to network resources
+2014-02-26 22:14:11.938 EnergyControl[78296:80b] [CDVTimer][splashscreen] 8.778036ms
+2014-02-26 22:14:11.939 EnergyControl[78296:80b] [CDVTimer][TotalPluginStartup] 9.193003ms
+2014-02-26 22:14:12.408 EnergyControl[78296:80b] Resetting plugins due to page load.
+2014-02-26 22:15:21.336 EnergyControl[78296:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-02-26 22:15:23.146 EnergyControl[78296:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 22:17:50.609 EnergyControl[78599:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 22:17:50.638 EnergyControl[78599:80b] Unlimited access to network resources
+2014-02-26 22:17:50.676 EnergyControl[78599:80b] [CDVTimer][splashscreen] 10.007977ms
+2014-02-26 22:17:50.676 EnergyControl[78599:80b] [CDVTimer][TotalPluginStartup] 10.432005ms
+2014-02-26 22:17:50.820 EnergyControl[78599:80b] Resetting plugins due to page load.
+2014-02-26 22:23:38.306 EnergyControl[78599:4303] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-02-26 22:23:41.623 EnergyControl[78599:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 22:26:10.276 EnergyControl[78923:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 22:26:10.285 EnergyControl[78923:80b] Unlimited access to network resources
+2014-02-26 22:26:10.316 EnergyControl[78923:80b] [CDVTimer][splashscreen] 9.788990ms
+2014-02-26 22:26:10.317 EnergyControl[78923:80b] [CDVTimer][TotalPluginStartup] 10.334015ms
+2014-02-26 22:26:10.553 EnergyControl[78923:80b] Resetting plugins due to page load.
+2014-02-26 22:28:27.258 EnergyControl[78923:4003] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-02-26 22:28:29.499 EnergyControl[78923:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 22:32:39.297 EnergyControl[79241:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 22:32:39.304 EnergyControl[79241:80b] Unlimited access to network resources
+2014-02-26 22:32:39.329 EnergyControl[79241:80b] [CDVTimer][splashscreen] 7.148027ms
+2014-02-26 22:32:39.329 EnergyControl[79241:80b] [CDVTimer][TotalPluginStartup] 7.551968ms
+2014-02-26 22:32:39.433 EnergyControl[79241:80b] Resetting plugins due to page load.
+2014-02-26 22:32:40.243 EnergyControl[79241:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 22:36:17.899 EnergyControl[79545:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 22:36:17.943 EnergyControl[79545:80b] Unlimited access to network resources
+2014-02-26 22:36:17.977 EnergyControl[79545:80b] [CDVTimer][splashscreen] 10.713041ms
+2014-02-26 22:36:17.978 EnergyControl[79545:80b] [CDVTimer][TotalPluginStartup] 11.249959ms
+2014-02-26 22:36:18.164 EnergyControl[79545:80b] Resetting plugins due to page load.
+2014-02-26 22:36:18.897 EnergyControl[79545:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 22:36:50.476 EnergyControl[79838:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 22:36:50.485 EnergyControl[79838:80b] Unlimited access to network resources
+2014-02-26 22:36:50.514 EnergyControl[79838:80b] [CDVTimer][splashscreen] 8.105993ms
+2014-02-26 22:36:50.514 EnergyControl[79838:80b] [CDVTimer][TotalPluginStartup] 8.653998ms
+2014-02-26 22:36:50.743 EnergyControl[79838:80b] Resetting plugins due to page load.
+2014-02-26 22:36:51.627 EnergyControl[79838:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextSaveGState: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextSetFlatness: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextAddPath: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextDrawPath: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextRestoreGState: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextSaveGState: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextSetFlatness: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextAddPath: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextDrawPath: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextRestoreGState: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextGetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextFillRects: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextGetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextFillRects: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextGetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextFillRects: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+2014-02-26 22:38:40.211 EnergyControl[80138:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 22:38:40.264 EnergyControl[80138:80b] Unlimited access to network resources
+2014-02-26 22:38:40.297 EnergyControl[80138:80b] [CDVTimer][splashscreen] 11.909008ms
+2014-02-26 22:38:40.298 EnergyControl[80138:80b] [CDVTimer][TotalPluginStartup] 12.458026ms
+2014-02-26 22:38:40.567 EnergyControl[80138:80b] Resetting plugins due to page load.
+2014-02-26 22:38:41.603 EnergyControl[80138:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 22:39:43.591 EnergyControl[80430:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 22:39:43.632 EnergyControl[80430:80b] Unlimited access to network resources
+2014-02-26 22:39:43.661 EnergyControl[80430:80b] [CDVTimer][splashscreen] 7.485986ms
+2014-02-26 22:39:43.662 EnergyControl[80430:80b] [CDVTimer][TotalPluginStartup] 8.049011ms
+2014-02-26 22:39:43.869 EnergyControl[80430:80b] Resetting plugins due to page load.
+2014-02-26 22:39:44.401 EnergyControl[80430:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 22:44:50.032 EnergyControl[80737:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 22:44:50.041 EnergyControl[80737:80b] Unlimited access to network resources
+2014-02-26 22:44:50.068 EnergyControl[80737:80b] [CDVTimer][splashscreen] 8.960009ms
+2014-02-26 22:44:50.069 EnergyControl[80737:80b] [CDVTimer][TotalPluginStartup] 9.428024ms
+2014-02-26 22:44:50.278 EnergyControl[80737:80b] Resetting plugins due to page load.
+2014-02-26 22:44:50.704 EnergyControl[80737:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 22:45:42.333 EnergyControl[81034:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 22:45:42.339 EnergyControl[81034:80b] Unlimited access to network resources
+2014-02-26 22:45:42.365 EnergyControl[81034:80b] [CDVTimer][splashscreen] 8.302033ms
+2014-02-26 22:45:42.365 EnergyControl[81034:80b] [CDVTimer][TotalPluginStartup] 8.780003ms
+2014-02-26 22:45:42.564 EnergyControl[81034:80b] Resetting plugins due to page load.
+2014-02-26 22:45:43.052 EnergyControl[81034:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-02-26 22:48:36.897 EnergyControl[81338:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-26 22:48:36.944 EnergyControl[81338:80b] Unlimited access to network resources
+2014-02-26 22:48:36.970 EnergyControl[81338:80b] [CDVTimer][splashscreen] 9.446025ms
+2014-02-26 22:48:36.971 EnergyControl[81338:80b] [CDVTimer][TotalPluginStartup] 10.010958ms
+2014-02-26 22:48:37.124 EnergyControl[81338:80b] Resetting plugins due to page load.
+2014-02-26 22:48:37.606 EnergyControl[81338:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html

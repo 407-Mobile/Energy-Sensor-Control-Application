@@ -3,6 +3,7 @@
     <link rel="stylesheet" href="css/custom.css">
 </head>
 <div data-role="page" data-control-title="Routers" id="page7" data-theme="b">
+    <script language="javascript" type="text/javascript" src="js/sensor_settings.js"></script>
     <div data-theme="b" data-role="header" id="header">
         <a data-role="button" data-rel="back" href="#page7" class="ui-btn-left" id="back">
             Back
@@ -103,7 +104,7 @@
                     </div>
                     <div class="ui-block-b">
                         <div data-role="fieldcontain" data-controltype="toggleswitch" data-theme="b">
-                            <select name="toggleswitch1" id="toggleswitch1" data-theme="b" data-role="slider"
+                            <select name="toggleswitch1" id="tsDControl" data-theme="b" data-role="slider"
                                     data-mini="true" data-theme="b">
                                 <option value="off">
                                     Off
@@ -116,48 +117,50 @@
                     </div>
                 </div>
             </li>
-            <li data-theme="b">
-                <div class="ui-grid-a">
-                    <div class="ui-block-a" style="margin:auto">
-                        <h3 style="text-align:center">
-                            Turn this device
-                        </h3>
-                    </div>
-                    <div class="ui-block-b">
-                        <div data-role="fieldcontain" data-controltype="toggleswitch" data-theme="b">
-                            <select name="toggleswitch1" id="toggleswitch1" data-theme="b" data-role="slider"
-                                    data-mini="true" data-theme="b">
-                                <option value="off">
-                                    Off
-                                </option>
-                                <option value="on" selected>
-                                    On
-                                </option>
-                            </select>
+            <div id="distance_group">
+                <li data-theme="b">
+                    <div class="ui-grid-a">
+                        <div class="ui-block-a" style="margin:auto">
+                            <h3 style="text-align:center">
+                                Turn this device
+                            </h3>
+                        </div>
+                        <div class="ui-block-b">
+                            <div data-role="fieldcontain" data-controltype="toggleswitch" data-theme="b">
+                                <select name="toggleswitch1" id="toggleswitch1" data-theme="b" data-role="slider"
+                                        data-mini="true" data-theme="b">
+                                    <option value="off">
+                                        Off
+                                    </option>
+                                    <option value="on" selected>
+                                        On
+                                    </option>
+                                </select>
+                            </div>
                         </div>
                     </div>
+                </li>
+            <div class="ui-grid-b" data-theme="b">
+                <div class="ui-block-a" data-theme="b">
+                    <h4>
+                        When I am
+                    </h4>
                 </div>
-            </li>
-        <div class="ui-grid-b" data-theme="b">
-            <div class="ui-block-a" data-theme="b">
-                <h4>
-                    When I am
-                </h4>
-            </div>
-            <div class="ui-block-b" data-theme="b">
-                <div data-role="fieldcontain" data-controltype="textinput">
-                    <input name="" id="textinput1" placeholder="" value="" type="number" data-mini="true">
+                <div class="ui-block-b" data-theme="b">
+                    <div data-role="fieldcontain" data-controltype="textinput">
+                        <input name="" id="textinput1" placeholder="" value="" type="number" data-mini="true">
+                    </div>
+                </div>
+                <div class="ui-block-c" data-theme="b" id="">
+                    <h4 style="text-align:center">
+                        miles away
+                    </h4>
                 </div>
             </div>
-            <div class="ui-block-c" data-theme="b" id="">
-                <h4 style="text-align:center">
-                    miles away
-                </h4>
-            </div>
+            <a data-role="button" href="#page4" data-theme="b">
+                Save
+            </a>
         </div>
-        <a data-role="button" href="#page4" data-theme="b">
-            Save
-        </a>
     </div>
     <div data-theme="b" data-role="footer">
         <h3>
