@@ -1,12 +1,16 @@
 function init() {
-    alert("TESTINGGG");
+
  document.addEventListener("deviceready", deviceReady, true);
  delete init;
 }
-        alert("TESTinit");
-        $( "#loginBtn" ).on( "click", function(event, ui) {
-            alert("TEST");
-        }
+
+
+$("#loginBtn").click(function (e) {
+var u = $("#username").val();
+var p = $("#password").val();
+alert(u);
+alert(p);
+});
 
 
 
