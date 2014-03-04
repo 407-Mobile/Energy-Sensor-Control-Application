@@ -6,10 +6,28 @@ function init() {
 
 
 $("#loginBtn").click(function (e) {
+	if(localStorage){
+		//Set the name, age and colour items
+		alert("yay");
+	}
+	//Alert the user to upgrade their browser
+	else {
+		alert('Local storage not supported. Please get a proper browser');
+	}
+
+	var db = window.openDatabase("test", "1.0", "Test DB", 1000000);
+	alert(db.name);
+
 var u = $("#username").val();
 var p = $("#password").val();
+// window.localStorage.setItem("key", "minhbinh");
+//                 var keyname = window.localStorage.key(i);
+//                 // keyname is now equal to "key"
+//                 var value = window.localStorage.getItem("key");
 alert(u);
 alert(p);
+// alert(keyname);
+// alert(value);
 });
 
 

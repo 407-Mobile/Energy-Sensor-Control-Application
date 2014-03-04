@@ -1063,3 +1063,51 @@ Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: C
 2014-03-02 21:14:11.129 EnergyControl[92005:80b] [CDVTimer][TotalPluginStartup] 10.152996ms
 2014-03-02 21:14:11.346 EnergyControl[92005:80b] Resetting plugins due to page load.
 2014-03-02 21:14:11.712 EnergyControl[92005:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-03-03 22:21:16.707 EnergyControl[97005:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-03 22:21:16.871 EnergyControl[97005:80b] Unlimited access to network resources
+2014-03-03 22:21:18.621 EnergyControl[97005:80b] [CDVTimer][splashscreen] 267.364025ms
+2014-03-03 22:21:18.622 EnergyControl[97005:80b] [CDVTimer][TotalPluginStartup] 267.843962ms
+2014-03-03 22:21:18.798 EnergyControl[97005:80b] Resetting plugins due to page load.
+2014-03-03 22:21:20.035 EnergyControl[97005:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-03-03 22:22:31.350 EnergyControl[97292:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-03 22:22:31.360 EnergyControl[97292:80b] Unlimited access to network resources
+2014-03-03 22:22:31.393 EnergyControl[97292:80b] [CDVTimer][splashscreen] 10.744989ms
+2014-03-03 22:22:31.393 EnergyControl[97292:80b] [CDVTimer][TotalPluginStartup] 11.304021ms
+2014-03-03 22:22:31.637 EnergyControl[97292:80b] Resetting plugins due to page load.
+2014-03-03 22:22:32.279 EnergyControl[97292:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-03-03 22:24:25.286 EnergyControl[97594:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-03 22:24:25.296 EnergyControl[97594:80b] Unlimited access to network resources
+2014-03-03 22:24:25.328 EnergyControl[97594:80b] [CDVTimer][splashscreen] 11.538982ms
+2014-03-03 22:24:25.329 EnergyControl[97594:80b] [CDVTimer][TotalPluginStartup] 12.486994ms
+2014-03-03 22:24:25.573 EnergyControl[97594:80b] Resetting plugins due to page load.
+2014-03-03 22:24:33.215 EnergyControl[97594:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-03-03 22:44:47.928 EnergyControl[97937:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-03 22:44:47.941 EnergyControl[97937:80b] Unlimited access to network resources
+2014-03-03 22:44:47.972 EnergyControl[97937:80b] [CDVTimer][splashscreen] 9.890020ms
+2014-03-03 22:44:47.973 EnergyControl[97937:80b] [CDVTimer][TotalPluginStartup] 10.450959ms
+2014-03-03 22:44:48.141 EnergyControl[97937:80b] Resetting plugins due to page load.
+2014-03-03 22:44:48.797 EnergyControl[97937:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-03-03 22:47:25.884 EnergyControl[98241:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-03 22:47:25.896 EnergyControl[98241:80b] Unlimited access to network resources
+2014-03-03 22:47:25.928 EnergyControl[98241:80b] [CDVTimer][splashscreen] 9.566009ms
+2014-03-03 22:47:25.929 EnergyControl[98241:80b] [CDVTimer][TotalPluginStartup] 10.434031ms
+2014-03-03 22:47:26.175 EnergyControl[98241:80b] Resetting plugins due to page load.
+2014-03-03 22:47:26.826 EnergyControl[98241:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-03-03 22:49:08.850 EnergyControl[98544:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-03 22:49:08.859 EnergyControl[98544:80b] Unlimited access to network resources
+2014-03-03 22:49:08.893 EnergyControl[98544:80b] [CDVTimer][splashscreen] 10.914981ms
+2014-03-03 22:49:08.894 EnergyControl[98544:80b] [CDVTimer][TotalPluginStartup] 11.546016ms
+2014-03-03 22:49:09.062 EnergyControl[98544:80b] Resetting plugins due to page load.
+2014-03-03 22:49:09.691 EnergyControl[98544:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-03-03 22:50:18.215 EnergyControl[98839:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-03 22:50:18.226 EnergyControl[98839:80b] Unlimited access to network resources
+2014-03-03 22:50:18.258 EnergyControl[98839:80b] [CDVTimer][splashscreen] 10.461986ms
+2014-03-03 22:50:18.259 EnergyControl[98839:80b] [CDVTimer][TotalPluginStartup] 11.322975ms
+2014-03-03 22:50:18.499 EnergyControl[98839:80b] Resetting plugins due to page load.
+2014-03-03 22:50:37.280 EnergyControl[98839:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-03-03 22:51:33.909 EnergyControl[99138:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-03 22:51:33.921 EnergyControl[99138:80b] Unlimited access to network resources
+2014-03-03 22:51:33.951 EnergyControl[99138:80b] [CDVTimer][splashscreen] 9.729981ms
+2014-03-03 22:51:33.951 EnergyControl[99138:80b] [CDVTimer][TotalPluginStartup] 10.493994ms
+2014-03-03 22:51:34.249 EnergyControl[99138:80b] Resetting plugins due to page load.
+2014-03-03 22:51:34.851 EnergyControl[99138:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
