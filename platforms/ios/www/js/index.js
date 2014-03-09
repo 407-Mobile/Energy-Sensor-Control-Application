@@ -15,8 +15,8 @@ $("#loginBtn").click(function (e) {
 		alert('Local storage not supported. Please get a proper browser');
 	}
 
-	var db = window.openDatabase("test", "1.0", "Test DB", 1000000);
-	alert(db.name);
+	// var db = window.openDatabase("test", "1.0", "Test DB", 1000000);
+	// alert(db.name);
 
 var u = $("#username").val();
 var p = $("#password").val();

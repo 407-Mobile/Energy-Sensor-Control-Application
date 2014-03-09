@@ -16,11 +16,11 @@
 /Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/cordova_plugins.js \
 /Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/css \
 /Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/devices.html \
+/Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/home.html \
 /Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/img \
 /Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/index.html \
 /Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/js \
 /Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/plugins \
-/Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/routers.html \
 /Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/sensor_settings.html \
 /Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/settings.html \
 /Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/time_scheduler.html \
@@ -28,6 +28,7 @@
 /Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/img/logo.png \
 /Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/img/router.png \
 /Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/js/index.js \
+/Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/js/sensor_settings.js \
 /Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/plugins/org.apache.cordova.battery-status \
 /Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/plugins/org.apache.cordova.device \
 /Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/plugins/org.apache.cordova.dialogs \
