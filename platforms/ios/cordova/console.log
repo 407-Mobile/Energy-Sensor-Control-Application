@@ -1117,3 +1117,251 @@ Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: C
 2014-03-06 19:22:31.860 EnergyControl[7884:80b] [CDVTimer][TotalPluginStartup] 246.827960ms
 2014-03-06 19:22:32.001 EnergyControl[7884:80b] Resetting plugins due to page load.
 2014-03-06 19:22:32.589 EnergyControl[7884:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-03-09 17:22:32.789 EnergyControl[16433:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 17:22:32.945 EnergyControl[16433:80b] Unlimited access to network resources
+2014-03-09 17:22:35.657 EnergyControl[16433:80b] [CDVTimer][splashscreen] 278.258979ms
+2014-03-09 17:22:35.657 EnergyControl[16433:80b] [CDVTimer][TotalPluginStartup] 278.674960ms
+2014-03-09 17:22:35.831 EnergyControl[16433:80b] Resetting plugins due to page load.
+2014-03-09 17:22:36.777 EnergyControl[16433:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-03-09 17:25:33.002 EnergyControl[16732:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 17:25:33.012 EnergyControl[16732:80b] Unlimited access to network resources
+2014-03-09 17:25:33.089 EnergyControl[16732:80b] [CDVTimer][splashscreen] 11.565983ms
+2014-03-09 17:25:33.090 EnergyControl[16732:80b] [CDVTimer][TotalPluginStartup] 12.493014ms
+2014-03-09 17:25:33.320 EnergyControl[16732:80b] Resetting plugins due to page load.
+2014-03-09 17:25:33.840 EnergyControl[16732:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/home.html
+2014-03-09 17:26:58.309 EnergyControl[16732:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-03-09 17:26:58.310 EnergyControl[16732:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-03-09 17:47:31.500 EnergyControl[17115:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 17:47:31.506 EnergyControl[17115:80b] Unlimited access to network resources
+2014-03-09 17:47:31.534 EnergyControl[17115:80b] [CDVTimer][splashscreen] 9.571970ms
+2014-03-09 17:47:31.534 EnergyControl[17115:80b] [CDVTimer][TotalPluginStartup] 10.016024ms
+2014-03-09 17:47:31.726 EnergyControl[17115:80b] Resetting plugins due to page load.
+2014-03-09 17:47:32.176 EnergyControl[17115:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/home.html
+2014-03-09 17:49:23.869 EnergyControl[17414:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 17:49:23.887 EnergyControl[17414:80b] Unlimited access to network resources
+2014-03-09 17:49:23.936 EnergyControl[17414:80b] [CDVTimer][splashscreen] 9.330988ms
+2014-03-09 17:49:23.937 EnergyControl[17414:80b] [CDVTimer][TotalPluginStartup] 10.169983ms
+2014-03-09 17:49:24.161 EnergyControl[17414:80b] Resetting plugins due to page load.
+2014-03-09 17:49:24.689 EnergyControl[17414:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/home.html
+2014-03-09 17:50:02.632 EnergyControl[17706:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 17:50:02.642 EnergyControl[17706:80b] Unlimited access to network resources
+2014-03-09 17:50:02.675 EnergyControl[17706:80b] [CDVTimer][splashscreen] 9.908974ms
+2014-03-09 17:50:02.676 EnergyControl[17706:80b] [CDVTimer][TotalPluginStartup] 10.782957ms
+2014-03-09 17:50:02.962 EnergyControl[17706:80b] Resetting plugins due to page load.
+2014-03-09 17:50:05.499 EnergyControl[17706:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/home.html
+2014-03-09 18:26:09.532 EnergyControl[18256:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 18:26:09.538 EnergyControl[18256:80b] Unlimited access to network resources
+2014-03-09 18:26:09.570 EnergyControl[18256:80b] [CDVTimer][splashscreen] 9.110034ms
+2014-03-09 18:26:09.571 EnergyControl[18256:80b] [CDVTimer][TotalPluginStartup] 9.663045ms
+2014-03-09 18:26:09.743 EnergyControl[18256:80b] Resetting plugins due to page load.
+2014-03-09 18:26:11.145 EnergyControl[18256:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-03-09 18:27:48.967 EnergyControl[18556:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 18:27:49.010 EnergyControl[18556:80b] Unlimited access to network resources
+2014-03-09 18:27:49.118 EnergyControl[18556:80b] [CDVTimer][splashscreen] 37.353992ms
+2014-03-09 18:27:49.130 EnergyControl[18556:80b] [CDVTimer][TotalPluginStartup] 48.596025ms
+2014-03-09 18:27:49.362 EnergyControl[18556:80b] Resetting plugins due to page load.
+2014-03-09 18:27:49.754 EnergyControl[18556:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-03-09 18:33:08.440 EnergyControl[18870:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 18:33:08.449 EnergyControl[18870:80b] Unlimited access to network resources
+2014-03-09 18:33:08.480 EnergyControl[18870:80b] [CDVTimer][splashscreen] 9.916008ms
+2014-03-09 18:33:08.480 EnergyControl[18870:80b] [CDVTimer][TotalPluginStartup] 10.468006ms
+2014-03-09 18:33:08.652 EnergyControl[18870:80b] Resetting plugins due to page load.
+2014-03-09 18:33:09.112 EnergyControl[18870:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-03-09 18:34:54.297 EnergyControl[19175:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 18:34:54.339 EnergyControl[19175:80b] Unlimited access to network resources
+2014-03-09 18:34:54.385 EnergyControl[19175:80b] [CDVTimer][splashscreen] 11.096001ms
+2014-03-09 18:34:54.385 EnergyControl[19175:80b] [CDVTimer][TotalPluginStartup] 11.651993ms
+2014-03-09 18:34:54.606 EnergyControl[19175:80b] Resetting plugins due to page load.
+2014-03-09 18:34:55.096 EnergyControl[19175:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-03-09 18:35:44.713 EnergyControl[19470:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 18:35:44.722 EnergyControl[19470:80b] Unlimited access to network resources
+2014-03-09 18:35:44.746 EnergyControl[19470:80b] [CDVTimer][splashscreen] 7.445991ms
+2014-03-09 18:35:44.746 EnergyControl[19470:80b] [CDVTimer][TotalPluginStartup] 7.914007ms
+2014-03-09 18:35:44.935 EnergyControl[19470:80b] Resetting plugins due to page load.
+2014-03-09 18:35:45.374 EnergyControl[19470:80b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1194AF5E-B672-45CA-98CD-5ED18F8718A2/EnergyControl.app/www/index.html
+2014-03-09 20:38:34.336 EnergyControl[19470:4103] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-03-22 12:33:20.656 EnergyControl[58909:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-22 12:33:21.301 EnergyControl[58909:70b] Unlimited access to network resources
+2014-03-22 12:33:25.173 EnergyControl[58909:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-22 12:33:25.174 EnergyControl[58909:70b] [CDVTimer][splashscreen] 1781.760991ms
+2014-03-22 12:33:25.174 EnergyControl[58909:70b] [CDVTimer][TotalPluginStartup] 1782.589018ms
+2014-03-22 12:33:25.257 EnergyControl[58909:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-22 12:33:25.262 EnergyControl[58909:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-22 12:33:25.264 EnergyControl[58909:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-22 12:33:25.896 EnergyControl[58909:70b] Resetting plugins due to page load.
+2014-03-22 12:33:27.908 EnergyControl[58909:70b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/277E2051-E861-4A4F-B0BD-55AFA22CF8FA/EnergyControl.app/www/index.html
+2014-03-22 12:40:46.372 EnergyControl[59207:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-22 12:40:46.378 EnergyControl[59207:70b] Unlimited access to network resources
+2014-03-22 12:40:46.399 EnergyControl[59207:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-22 12:40:46.400 EnergyControl[59207:70b] [CDVTimer][splashscreen] 7.714987ms
+2014-03-22 12:40:46.400 EnergyControl[59207:70b] [CDVTimer][TotalPluginStartup] 8.092999ms
+2014-03-22 12:40:46.401 EnergyControl[59207:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-22 12:40:46.404 EnergyControl[59207:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-22 12:40:46.404 EnergyControl[59207:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-22 12:40:46.431 EnergyControl[59207:70b] Resetting plugins due to page load.
+2014-03-22 12:40:47.020 EnergyControl[59207:70b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/277E2051-E861-4A4F-B0BD-55AFA22CF8FA/EnergyControl.app/www/index.html
+2014-03-26 16:22:48.587 EnergyControl[68597:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-26 16:22:48.692 EnergyControl[68597:70b] Unlimited access to network resources
+2014-03-26 16:22:50.866 EnergyControl[68597:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:22:50.867 EnergyControl[68597:70b] [CDVTimer][splashscreen] 556.542993ms
+2014-03-26 16:22:50.867 EnergyControl[68597:70b] [CDVTimer][TotalPluginStartup] 557.007968ms
+2014-03-26 16:22:50.869 EnergyControl[68597:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:22:50.873 EnergyControl[68597:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:22:50.874 EnergyControl[68597:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:22:51.005 EnergyControl[68597:70b] Resetting plugins due to page load.
+2014-03-26 16:22:53.301 EnergyControl[68597:70b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/277E2051-E861-4A4F-B0BD-55AFA22CF8FA/EnergyControl.app/www/index.html
+2014-03-26 16:22:57.888 EnergyControl[68866:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-26 16:22:57.895 EnergyControl[68866:70b] Unlimited access to network resources
+2014-03-26 16:22:57.917 EnergyControl[68866:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:22:57.918 EnergyControl[68866:70b] [CDVTimer][splashscreen] 7.718980ms
+2014-03-26 16:22:57.918 EnergyControl[68866:70b] [CDVTimer][TotalPluginStartup] 8.087039ms
+2014-03-26 16:22:57.919 EnergyControl[68866:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:22:57.921 EnergyControl[68866:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:22:57.922 EnergyControl[68866:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:22:57.949 EnergyControl[68866:70b] Resetting plugins due to page load.
+2014-03-26 16:22:58.503 EnergyControl[68866:70b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/277E2051-E861-4A4F-B0BD-55AFA22CF8FA/EnergyControl.app/www/index.html
+2014-03-26 16:25:05.049 EnergyControl[69409:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-26 16:25:05.057 EnergyControl[69409:70b] Unlimited access to network resources
+2014-03-26 16:25:05.083 EnergyControl[69409:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:25:05.083 EnergyControl[69409:70b] [CDVTimer][splashscreen] 9.774029ms
+2014-03-26 16:25:05.084 EnergyControl[69409:70b] [CDVTimer][TotalPluginStartup] 10.151982ms
+2014-03-26 16:25:05.085 EnergyControl[69409:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:25:05.087 EnergyControl[69409:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:25:05.089 EnergyControl[69409:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:25:05.116 EnergyControl[69409:70b] Resetting plugins due to page load.
+2014-03-26 16:25:23.984 EnergyControl[69409:70b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/277E2051-E861-4A4F-B0BD-55AFA22CF8FA/EnergyControl.app/www/index.html
+2014-03-26 16:26:46.948 EnergyControl[69706:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-26 16:26:46.954 EnergyControl[69706:70b] Unlimited access to network resources
+2014-03-26 16:26:46.977 EnergyControl[69706:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:26:46.977 EnergyControl[69706:70b] [CDVTimer][splashscreen] 7.790983ms
+2014-03-26 16:26:46.977 EnergyControl[69706:70b] [CDVTimer][TotalPluginStartup] 8.163989ms
+2014-03-26 16:26:46.979 EnergyControl[69706:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:26:46.981 EnergyControl[69706:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:26:46.982 EnergyControl[69706:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:26:47.008 EnergyControl[69706:70b] Resetting plugins due to page load.
+2014-03-26 16:26:47.623 EnergyControl[69706:70b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/277E2051-E861-4A4F-B0BD-55AFA22CF8FA/EnergyControl.app/www/index.html
+2014-03-26 16:27:42.125 EnergyControl[69975:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-26 16:27:42.131 EnergyControl[69975:70b] Unlimited access to network resources
+2014-03-26 16:27:42.153 EnergyControl[69975:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:27:42.153 EnergyControl[69975:70b] [CDVTimer][splashscreen] 7.763982ms
+2014-03-26 16:27:42.154 EnergyControl[69975:70b] [CDVTimer][TotalPluginStartup] 8.143961ms
+2014-03-26 16:27:42.155 EnergyControl[69975:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:27:42.157 EnergyControl[69975:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:27:42.158 EnergyControl[69975:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:27:42.186 EnergyControl[69975:70b] Resetting plugins due to page load.
+2014-03-26 16:27:43.595 EnergyControl[69975:70b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/277E2051-E861-4A4F-B0BD-55AFA22CF8FA/EnergyControl.app/www/index.html
+2014-03-26 16:28:17.133 EnergyControl[70267:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-26 16:28:17.176 EnergyControl[70267:70b] Unlimited access to network resources
+2014-03-26 16:28:17.299 EnergyControl[70267:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:28:17.309 EnergyControl[70267:70b] [CDVTimer][splashscreen] 20.789981ms
+2014-03-26 16:28:17.314 EnergyControl[70267:70b] [CDVTimer][TotalPluginStartup] 26.241004ms
+2014-03-26 16:28:17.320 EnergyControl[70267:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:28:17.323 EnergyControl[70267:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:28:17.324 EnergyControl[70267:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:28:17.429 EnergyControl[70267:70b] Resetting plugins due to page load.
+2014-03-26 16:28:18.106 EnergyControl[70267:70b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/277E2051-E861-4A4F-B0BD-55AFA22CF8FA/EnergyControl.app/www/index.html
+2014-03-26 16:29:32.038 EnergyControl[70267:4003] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-03-26 16:30:05.254 EnergyControl[70555:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-26 16:30:05.262 EnergyControl[70555:70b] Unlimited access to network resources
+2014-03-26 16:30:05.286 EnergyControl[70555:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:30:05.287 EnergyControl[70555:70b] [CDVTimer][splashscreen] 8.046031ms
+2014-03-26 16:30:05.287 EnergyControl[70555:70b] [CDVTimer][TotalPluginStartup] 8.426011ms
+2014-03-26 16:30:05.288 EnergyControl[70555:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:30:05.291 EnergyControl[70555:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:30:05.292 EnergyControl[70555:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:30:05.318 EnergyControl[70555:70b] Resetting plugins due to page load.
+2014-03-26 16:30:06.735 EnergyControl[70555:70b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/277E2051-E861-4A4F-B0BD-55AFA22CF8FA/EnergyControl.app/www/index.html
+2014-03-26 16:30:29.595 EnergyControl[70821:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-26 16:30:29.601 EnergyControl[70821:70b] Unlimited access to network resources
+2014-03-26 16:30:29.625 EnergyControl[70821:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:30:29.626 EnergyControl[70821:70b] [CDVTimer][splashscreen] 7.766008ms
+2014-03-26 16:30:29.626 EnergyControl[70821:70b] [CDVTimer][TotalPluginStartup] 8.143008ms
+2014-03-26 16:30:29.627 EnergyControl[70821:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:30:29.630 EnergyControl[70821:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:30:29.631 EnergyControl[70821:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:30:29.657 EnergyControl[70821:70b] Resetting plugins due to page load.
+2014-03-26 16:30:30.218 EnergyControl[70821:70b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/277E2051-E861-4A4F-B0BD-55AFA22CF8FA/EnergyControl.app/www/index.html
+2014-03-26 16:30:56.230 EnergyControl[71114:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-26 16:30:56.240 EnergyControl[71114:70b] Unlimited access to network resources
+2014-03-26 16:30:56.275 EnergyControl[71114:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:30:56.276 EnergyControl[71114:70b] [CDVTimer][splashscreen] 13.230979ms
+2014-03-26 16:30:56.276 EnergyControl[71114:70b] [CDVTimer][TotalPluginStartup] 13.772011ms
+2014-03-26 16:30:56.278 EnergyControl[71114:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:30:56.282 EnergyControl[71114:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:30:56.283 EnergyControl[71114:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:30:56.400 EnergyControl[71114:70b] Resetting plugins due to page load.
+2014-03-26 16:30:57.117 EnergyControl[71114:70b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/277E2051-E861-4A4F-B0BD-55AFA22CF8FA/EnergyControl.app/www/index.html
+2014-03-26 16:36:54.337 EnergyControl[71114:4103] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-03-26 16:37:06.501 EnergyControl[71430:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-26 16:37:06.509 EnergyControl[71430:70b] Unlimited access to network resources
+2014-03-26 16:37:06.533 EnergyControl[71430:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:37:06.534 EnergyControl[71430:70b] [CDVTimer][splashscreen] 9.531021ms
+2014-03-26 16:37:06.534 EnergyControl[71430:70b] [CDVTimer][TotalPluginStartup] 10.120034ms
+2014-03-26 16:37:06.536 EnergyControl[71430:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:37:06.538 EnergyControl[71430:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:37:06.539 EnergyControl[71430:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:37:06.566 EnergyControl[71430:70b] Resetting plugins due to page load.
+2014-03-26 16:37:07.287 EnergyControl[71430:70b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/277E2051-E861-4A4F-B0BD-55AFA22CF8FA/EnergyControl.app/www/index.html
+2014-03-26 16:37:30.027 EnergyControl[71727:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-26 16:37:30.036 EnergyControl[71727:70b] Unlimited access to network resources
+2014-03-26 16:37:30.068 EnergyControl[71727:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:37:30.069 EnergyControl[71727:70b] [CDVTimer][splashscreen] 10.852993ms
+2014-03-26 16:37:30.069 EnergyControl[71727:70b] [CDVTimer][TotalPluginStartup] 11.327028ms
+2014-03-26 16:37:30.071 EnergyControl[71727:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:37:30.074 EnergyControl[71727:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:37:30.075 EnergyControl[71727:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:37:30.196 EnergyControl[71727:70b] Resetting plugins due to page load.
+2014-03-26 16:37:31.027 EnergyControl[71727:70b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/277E2051-E861-4A4F-B0BD-55AFA22CF8FA/EnergyControl.app/www/index.html
+2014-03-26 16:38:28.869 EnergyControl[71727:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-03-26 16:38:47.916 EnergyControl[72029:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-26 16:38:47.926 EnergyControl[72029:70b] Unlimited access to network resources
+2014-03-26 16:38:47.957 EnergyControl[72029:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:38:47.958 EnergyControl[72029:70b] [CDVTimer][splashscreen] 11.134982ms
+2014-03-26 16:38:47.959 EnergyControl[72029:70b] [CDVTimer][TotalPluginStartup] 11.645973ms
+2014-03-26 16:38:47.960 EnergyControl[72029:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:38:47.963 EnergyControl[72029:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:38:47.965 EnergyControl[72029:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-26 16:38:48.092 EnergyControl[72029:70b] Resetting plugins due to page load.
+2014-03-26 16:38:48.786 EnergyControl[72029:70b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/277E2051-E861-4A4F-B0BD-55AFA22CF8FA/EnergyControl.app/www/index.html
+2014-03-26 16:39:53.682 EnergyControl[72029:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-03-26 16:41:18.965 EnergyControl[72029:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-03-28 16:04:54.196 EnergyControl[79956:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-28 16:04:54.383 EnergyControl[79956:70b] Unlimited access to network resources
+2014-03-28 16:04:54.936 EnergyControl[79956:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-28 16:04:54.936 EnergyControl[79956:70b] [CDVTimer][splashscreen] 537.415981ms
+2014-03-28 16:04:54.937 EnergyControl[79956:70b] [CDVTimer][TotalPluginStartup] 538.085997ms
+2014-03-28 16:04:54.959 EnergyControl[79956:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-28 16:04:54.964 EnergyControl[79956:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-28 16:04:54.966 EnergyControl[79956:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-28 16:04:55.017 EnergyControl[79956:70b] Resetting plugins due to page load.
+2014-03-28 16:04:57.214 EnergyControl[79956:70b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/277E2051-E861-4A4F-B0BD-55AFA22CF8FA/EnergyControl.app/www/index.html
+2014-03-28 16:24:07.027 EnergyControl[80409:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-28 16:24:07.060 EnergyControl[80409:70b] Unlimited access to network resources
+2014-03-28 16:24:07.159 EnergyControl[80409:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-28 16:24:07.160 EnergyControl[80409:70b] [CDVTimer][splashscreen] 83.625972ms
+2014-03-28 16:24:07.160 EnergyControl[80409:70b] [CDVTimer][TotalPluginStartup] 84.300995ms
+2014-03-28 16:24:07.162 EnergyControl[80409:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-28 16:24:07.166 EnergyControl[80409:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-28 16:24:07.167 EnergyControl[80409:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-28 16:24:07.232 EnergyControl[80409:70b] Resetting plugins due to page load.
+2014-03-28 16:24:08.175 EnergyControl[80409:70b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/277E2051-E861-4A4F-B0BD-55AFA22CF8FA/EnergyControl.app/www/index.html
+2014-03-28 16:25:19.544 EnergyControl[80677:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-28 16:25:19.551 EnergyControl[80677:70b] Unlimited access to network resources
+2014-03-28 16:25:19.573 EnergyControl[80677:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-28 16:25:19.573 EnergyControl[80677:70b] [CDVTimer][splashscreen] 7.776022ms
+2014-03-28 16:25:19.574 EnergyControl[80677:70b] [CDVTimer][TotalPluginStartup] 8.154988ms
+2014-03-28 16:25:19.575 EnergyControl[80677:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-28 16:25:19.578 EnergyControl[80677:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-28 16:25:19.579 EnergyControl[80677:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-28 16:25:19.606 EnergyControl[80677:70b] Resetting plugins due to page load.
+2014-03-28 16:25:20.005 EnergyControl[80677:70b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/277E2051-E861-4A4F-B0BD-55AFA22CF8FA/EnergyControl.app/www/index.html
+2014-03-28 16:26:23.272 EnergyControl[81242:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-28 16:26:23.280 EnergyControl[81242:70b] Unlimited access to network resources
+2014-03-28 16:26:23.303 EnergyControl[81242:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-28 16:26:23.303 EnergyControl[81242:70b] [CDVTimer][splashscreen] 8.019030ms
+2014-03-28 16:26:23.304 EnergyControl[81242:70b] [CDVTimer][TotalPluginStartup] 8.435011ms
+2014-03-28 16:26:23.305 EnergyControl[81242:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-28 16:26:23.307 EnergyControl[81242:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-28 16:26:23.308 EnergyControl[81242:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-03-28 16:26:23.392 EnergyControl[81242:70b] Resetting plugins due to page load.
+2014-03-28 16:26:23.925 EnergyControl[81242:70b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/277E2051-E861-4A4F-B0BD-55AFA22CF8FA/EnergyControl.app/www/index.html

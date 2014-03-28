@@ -1,11 +1,17 @@
 function init() {
-
+ 
  document.addEventListener("deviceready", deviceReady, true);
  delete init;
 }
 
 
 $("#loginBtn").click(function (e) {
+	Parse.initialize("T9hGnG75SFw2m0VrnkAgNB4GZ3vffWuGuoaBdBwM", "BcVniJdGLrbbbXz7KAJR4S5PY37KrE3RrSwKR1eX");
+	var TestObject = Parse.Object.extend("TestObject");
+var testObject = new TestObject();
+testObject.save({foo: "bar"}).then(function(object) {
+  alert("yay! it worked");
+});
 	if(localStorage){
 		//Set the name, age and colour items
 		alert("yay");
@@ -24,10 +30,33 @@ var p = $("#password").val();
 //                 var keyname = window.localStorage.key(i);
 //                 // keyname is now equal to "key"
 //                 var value = window.localStorage.getItem("key");
-alert(u);
-alert(p);
+// alert(u);
+// alert(p);
 // alert(keyname);
 // alert(value);
+
+
+$.ajax({
+      url: "http://studioxps.wings.cs.wisc.edu/site/login.php",
+      type: "post",
+      data: "{'email': u,'p':p}",
+  datatype: 'json',
+      success: function(data){
+            alert(data); 
+         
+      },
+      error: function(error) {
+  alert(error.responseText)
+}
+    });
+
+
+
+
+
+
+
+
 });
 
 
