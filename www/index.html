@@ -57,11 +57,8 @@
         </h5>
     </div>
     <div data-role="content" data-theme="c">
-        <ul data-role="listview" data-divider-theme="c" data-inset="false">
+        <ul id="sensor_list" data-role="listview" data-divider-theme="c" data-inset="false">
             <li data-theme="c">
-                <button data-role="button" id="btnSensors" data-theme="c">
-                    Sensor 1
-                </button>
             </li>
         </ul>
     </div>
@@ -358,30 +355,10 @@
 <script>
 
 $("#loginBtn").click(function (e) {
-    // if(localStorage){
-    //     //Set the name, age and colour items
-    //     alert("yay");
-    // }
-    // //Alert the user to upgrade their browser
-    // else {
-    //     alert('Local storage not supported. Please get a proper browser');
-    // }
-
-    // var db = window.openDatabase("test", "1.0", "Test DB", 1000000);
-    // alert(db.name);
+    e.preventDefault()
 
     var e = $("#email").val();
     var p = $("#password").val();
-
-    // var e = $("#email").val();
-// window.localStorage.setItem("key", "minhbinh");
-//                 var keyname = window.localStorage.key(i);
-//                 // keyname is now equal to "key"
-//                 var value = window.localStorage.getItem("key");
-// alert(u);
-// alert(p);
-// alert(keyname);
-// alert(value);
 
 
 $.ajax({
@@ -391,8 +368,26 @@ $.ajax({
   datatype: 'json',
       success: function(data){
 
+        console.log(data);
+
+
         data = $.trim(data);
-        if(data === "\"Success\""){
+        data = data.replace(/['"]+/g, '');
+
+        if(data == "Failure"){
+            alert("Incorrect Login: Please Try Again.");
+            return;
+        }
+
+        data = parseInt(data);
+
+
+
+
+        if(typeof(data) == "number"){
+            localStorage.setItem('user_id',data)
+            localStorage.setItem('loggedin','true')
+
             $(':mobile-pagecontainer').pagecontainer('change', '#devices', {
             transition: 'slide',
             changeHash: false,
@@ -402,6 +397,7 @@ $.ajax({
 
 
         }else{
+            localStorage.setItem('loggedin','false')
             console.log(data);
         }
          
@@ -410,6 +406,35 @@ $.ajax({
         alert((error.responseText));
 }
     });
+
+$(document).on("pagecreate", "#devices", function( event ) {
+        
+        var id = localStorage.getItem("user_id");
+
+        $.ajax({
+        url: "http://studioxps.wings.cs.wisc.edu/digitalnetworkdevices/includes/get_devices_mobile.php",
+        type: "post", 
+        data: {'id': id},
+        dataType: "json",
+        success: function(data){
+            var devices = data;
+            for(var i = 0; i < devices.length; i++)
+            {
+                $('#sensor_list').append('<li data-theme="c"><button data-role="button" id="btnSensors" data-theme="c">Sensor ID: '+devices[i].sensor_id+' Device Name: '+devices[i].name+'</button></li>');
+                
+            }
+
+            $('#sensor_list').trigger('create');
+             
+        },
+        
+        error: function(error) {
+            console.log(error.responseText);
+        }
+        
+        });
+
+});
 
 
 // var user = new Parse.User();
