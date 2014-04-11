@@ -399,11 +399,15 @@ $.ajax({
             showLoadMsg: true
 
             });
+
+
+        }else{
+            console.log(data);
         }
          
       },
       error: function(error) {
-  conseol.log(error.responseText);
+        alert((error.responseText));
 }
     });
 
