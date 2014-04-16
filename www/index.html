@@ -195,10 +195,10 @@
                             <div data-role="fieldcontain" data-controltype="toggleswitch" data-theme="c">
                                 <select name="toggleswitch1" id="toggleswitch1" data-theme="c" data-role="slider"
                                         data-mini="true" data-theme="c">
-                                    <option value="off">
+                                    <option value="0">
                                         Off
                                     </option>
-                                    <option value="on" selected>
+                                    <option value="1" selected>
                                         On
                                     </option>
                                 </select>
@@ -255,12 +255,12 @@
             </div>
             <div class="ui-block-b" data-theme="c">
                 <div data-role="fieldcontain" data-controltype="toggleswitch" data-theme="c">
-                    <select name="toggleswitch1" id="toggleswitch1" data-theme="c" data-role="slider"
+                    <select name="toggleswitch1" id="device_state" data-theme="c" data-role="slider"
                     data-mini="true" data-theme="c">
-                        <option value="off">
+                        <option value="0">
                             Off
                         </option>
-                        <option value="on">
+                        <option value="1">
                             On
                         </option>
                     </select>
@@ -273,52 +273,52 @@
         <div class="ui-grid-a" data-theme="c">
             <div class="ui-block-a" data-theme="c">
                 <div data-role="fieldcontain" data-controltype="dateinput" data-theme="c">
-                    <input name="" id="dateinput6" placeholder="" value="" type="time">
+                    <input name="" id="time" placeholder="" value="" type="time">
                 </div>
             </div>
-            <div class="ui-block-b" data-theme="c">
+<!--             <div class="ui-block-b" data-theme="c">
                 <a data-role="button" href="#page1" data-icon="plus" data-iconpos="notext" data-theme="c">
                 </a>
-            </div>
+            </div> -->
         </div>
         <h2>
             Each week repeating on
         </h2>
         <div id="checkboxes2" data-role="fieldcontain" data-controltype="checkboxes" data-theme="c">
             <fieldset data-role="controlgroup" data-type="vertical" data-theme="c">
-                <input id="checkbox4" name="" type="checkbox">
-                    <label for="checkbox4">
+                <input id="sunday" name="" type="checkbox">
+                    <label for="sunday">
                         Sunday
                     </label>
-                <input id="checkbox5" name="" type="checkbox">
-                    <label for="checkbox5">
+                <input id="monday" name="" type="checkbox">
+                    <label for="monday">
                         Monday
                     </label>
-                <input id="checkbox6" name="" type="checkbox">
-                    <label for="checkbox6">
+                <input id="tuesday" name="" type="checkbox">
+                    <label for="tuesday">
                         Tuesday
                     </label>
-                <input id="checkbox7" name="" type="checkbox">
-                    <label for="checkbox7">
+                <input id="wednesday" name="" type="checkbox">
+                    <label for="wednesday">
                         Wednesday
                     </label>
-                <input id="checkbox8" name="" type="checkbox">
-                    <label for="checkbox8">
+                <input id="thursday" name="" type="checkbox">
+                    <label for="thursday">
                         Thursday
                     </label>
-                <input id="checkbox9" name="" type="checkbox">
-                    <label for="checkbox9">
+                <input id="friday" name="" type="checkbox">
+                    <label for="friday">
                         Friday
                     </label>
-                <input id="checkbox10" name="" type="checkbox">
-                    <label for="checkbox10">
+                <input id="saturday" name="" type="checkbox">
+                    <label for="saturday">
                         Saturday
                     </label>
             </fieldset>
         </div>
-        <a data-role="button" href="#page1" data-theme="c">
+        <button id="btnSaveSchedule" data-role="button" href="#page1" data-theme="c">
             Save
-        </a>
+        </button>
     </div>
     <div data-theme="c" data-role="footer" data-position="fixed">
         <h3>
@@ -338,21 +338,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <script>
+
 
 $("#loginBtn").click(function (e) {
     e.preventDefault()
@@ -408,7 +395,7 @@ $.ajax({
     });
 
 $(document).on("pagecreate", "#devices", function( event ) {
-        
+
         var id = localStorage.getItem("user_id");
 
         $.ajax({
@@ -418,13 +405,18 @@ $(document).on("pagecreate", "#devices", function( event ) {
         dataType: "json",
         success: function(data){
             var devices = data;
+            console.log(data);
+
             for(var i = 0; i < devices.length; i++)
             {
-                $('#sensor_list').append('<li data-theme="c"><button data-role="button" id="btnSensors" data-theme="c">Sensor ID: '+devices[i].sensor_id+' Device Name: '+devices[i].name+'</button></li>');
+
+                $('#sensor_list').append('<li data-theme="c"><button data-role="button" onClick="return scheduler(this);" id='+devices[i].sensor_id+' data-theme="c">Sensor ID: '+devices[i].sensor_id+' Device Name: '+devices[i].name+'</button></li>');
                 
             }
 
+
             $('#sensor_list').trigger('create');
+
              
         },
         
@@ -433,31 +425,9 @@ $(document).on("pagecreate", "#devices", function( event ) {
         }
         
         });
+    
 
 });
-
-
-// var user = new Parse.User();
-// user.set("username", u);
-// user.set("password", p);
-// user.set("email", e);
- 
-
- 
-// user.signUp(null, {
-//   success: function(user) {
-//     // Hooray! Let them use the app now.
-//     alert("Success!")
-//   },
-//   error: function(user, error) {
-//     // Show the error message somewhere and let the user try again.
-//     alert("Error: " + error.code + " " + error.message);
-//   }
-// });
-
-
-
-
 
 });
 
@@ -520,6 +490,24 @@ $("#setSchedule").click(function (e) {
 
 });
 
+$("#btnSaveSchedule").click(function (e) {
+
+    var sensor_id = localStorage.getItem('sensor_id');
+    var device_state = parseInt($('#device_state').val());
+    var time = $('#device_state').val();
+    var sunday = $('#sunday').is(":checked");;
+    alert(sunday);
+    alert(time);
+    // var monday
+    // var tuesday
+    // var wednesday
+    // var thursday
+    // var friday
+    // var saturday
+    // var time
+    // var schedule_state = 1;
+
+});
 
 
 
@@ -540,8 +528,29 @@ $( "#tsDControl" ).on( "slidestop", function(event, ui) {
 
 });
 
+// $(document).on("pagecreate", "#sensor_settings", function( event ) {
 
+//     var sensor_id = localStorage.getItem('sensor_id');
 
+// });
+
+// $(document).on("pagecreate", "#sensor_settings", function( event ) {
+
+    
+
+// });
+
+function scheduler(sensor){
+        var sensor_id = sensor.id;
+        alert(sensor_id);
+        localStorage.setItem('sensor_id',sensor_id);
+        $(':mobile-pagecontainer').pagecontainer('change', '#sensor_settings', {
+            transition: 'slide',
+            changeHash: false,
+            showLoadMsg: true
+
+            });
+}
 
 </script> 
 </html>

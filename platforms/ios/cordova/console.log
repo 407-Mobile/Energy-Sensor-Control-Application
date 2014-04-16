@@ -1485,3 +1485,13 @@ Feb 26 22:37:02 dyn-72-33-214-216.uwnet.wisc.edu EnergyControl[79838] <Error>: C
 2014-04-11 17:30:44.929 EnergyControl[35354:70b] WARNING: The splashscreen image named Default-Portrait was not found
 2014-04-11 17:30:45.039 EnergyControl[35354:70b] Resetting plugins due to page load.
 2014-04-11 17:30:45.574 EnergyControl[35354:70b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/277E2051-E861-4A4F-B0BD-55AFA22CF8FA/EnergyControl.app/www/index.html
+2014-04-16 17:15:31.309 EnergyControl[5833:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-16 17:15:31.516 EnergyControl[5833:70b] Unlimited access to network resources
+2014-04-16 17:15:33.265 EnergyControl[5833:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-04-16 17:15:33.265 EnergyControl[5833:70b] [CDVTimer][splashscreen] 469.195008ms
+2014-04-16 17:15:33.266 EnergyControl[5833:70b] [CDVTimer][TotalPluginStartup] 470.036030ms
+2014-04-16 17:15:33.268 EnergyControl[5833:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-04-16 17:15:33.273 EnergyControl[5833:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-04-16 17:15:33.274 EnergyControl[5833:70b] WARNING: The splashscreen image named Default-Portrait was not found
+2014-04-16 17:15:33.385 EnergyControl[5833:70b] Resetting plugins due to page load.
+2014-04-16 17:15:34.557 EnergyControl[5833:70b] Finished load of: file:///Users/Jared/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/277E2051-E861-4A4F-B0BD-55AFA22CF8FA/EnergyControl.app/www/index.html
