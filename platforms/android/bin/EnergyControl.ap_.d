@@ -27,6 +27,7 @@
 /Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/css/index.css \
 /Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/img/logo.png \
 /Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/img/router.png \
+/Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/js/devices.js \
 /Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/js/index.js \
 /Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/js/sensor_settings.js \
 /Users/Jared/Programming/PG_Projects/energy_control/platforms/android/assets/www/plugins/org.apache.cordova.battery-status \

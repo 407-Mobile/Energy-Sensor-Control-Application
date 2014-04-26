@@ -4,7 +4,7 @@
             <meta charset="utf-8" />
                 <meta name="format-detection" content="telephone=no" />
                 <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
-                <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+               <meta name="viewport" content="user-scalable=no, initial-scale=1, minimum-scale=1, width=device-width" />
                 <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.1/jquery.mobile-1.4.1.min.css"/>
                 <link rel="stylesheet" href="css/index.css">
                 <link rel="stylesheet" href="css/custom.css">
@@ -111,12 +111,6 @@
                 <ul data-role="listview" id="schedule_list" data-divider-theme="c" data-inset="false">
                     
                 </ul>
-
-                    
-                    
-                    <a data-role="button" href="#page4" data-theme="c">
-                        Save
-                    </a>
                 </div>
             </div>
             <div data-theme="c" data-role="footer">
@@ -410,7 +404,7 @@
 
 
 
-                        $('#schedule_list').append('<li data-theme="c"><div class="ui-grid-a"><div class="ui-block-a"><h3 style="text-align:center">'+newTime+'<br><span style="color: '+weekColors[0]+'">Su</span> <span style="color: '+weekColors[1]+'">M</span> <span style="color: '+weekColors[2]+'">T</span> <span style="color: '+weekColors[3]+'">W</span> <span style="color: '+weekColors[4]+'">Tr</span> <span style="color: '+weekColors[5]+'">Fr</span> <span style="color: '+weekColors[6]+'">Sa</span></h3></div><div class="ui-block-b"><div data-role="fieldcontain" data-controltype="toggleswitch" data-theme="c"><select name="toggleswitch1" id="toggleswitch1" data-theme="c" data-role="slider"data-mini="true" data-theme="c"><option value="off">Off</option><option value="on">On</option></select></div></div></div></li>');
+                        $('#schedule_list').append('<li data-theme="c"><div class="ui-block-a" style="width:40%"><h3 style="text-align:center">'+newTime+'<br><span style="color: '+weekColors[0]+'">Su</span> <span style="color: '+weekColors[1]+'">M</span> <span style="color: '+weekColors[2]+'">T</span> <span style="color: '+weekColors[3]+'">W</span> <span style="color: '+weekColors[4]+'">Tr</span> <span style="color: '+weekColors[5]+'">Fr</span> <span style="color: '+weekColors[6]+'">Sa</span></h3></div><div class="ui-block-b" style="width:25%"><div data-role="fieldcontain" data-controltype="toggleswitch" data-theme="c"><select name="toggleswitch1" id="toggleswitch1" data-theme="c" data-role="slider"data-mini="true" data-theme="c"><option value="off">Off</option><option value="on">On</option></select></div></div><div class="ui-block-c"><button data-role="button" data-icon="delete" id='+data[i].schedule_id+' onClick="return delete_schedule(this);" data-iconpos="notext">Delete</button></div></li>');
                         
 
                     }
@@ -484,7 +478,7 @@
 
         });
 
-            $("#setSchedule").click(function (e) {
+        $("#setSchedule").click(function (e) {
 
 
             $('#schedule_list').empty();
@@ -579,6 +573,167 @@
 
                     });
         }
+
+        function delete_schedule(schedule){
+
+
+                console.log(schedule);
+                var id = schedule.id;
+                console.log(id);
+                var sensor_id = localStorage.getItem('sensor_id');
+
+                
+
+                $.ajax({
+                url: "http://studioxps.wings.cs.wisc.edu/digitalnetworkdevices/includes/delete_schedules.php",
+                type: "post", 
+                data: {'schedule_id': id},
+                dataType: "json",
+                success: function(data){
+                    console.log(data);
+                     
+                },
+                
+                error: function(error) {
+                    console.log(error);
+                }
+                
+                });
+                
+
+                $('#schedule_list').empty();
+
+                $.ajax({
+                url: "http://studioxps.wings.cs.wisc.edu/digitalnetworkdevices/includes/get_schedules.php",
+                type: "post", 
+                data: {'sensor_id': sensor_id},
+                dataType: "json",
+                success: function(data){
+                    var schedules = data;
+                    console.log(data);
+                    var newTime;
+                    for(var i = 0; i < schedules.length; i++)
+                    {
+                        newTime = ""
+                        var parts = schedules[i].time.split(':'),
+                            hour = parts[0],
+                            minutes = parts[1];
+
+                        if (hour > 12) {
+                            newTime = (hour - 12) + ':' + minutes + ' pm';
+                        } else if (hour == 0) {
+                            console.log("hour == 0 test" + hour);
+                            newTime = 12 + ':' + minutes + ' am';
+                        } else if (hour == 12) {
+                            newTime = 12 + ':' + minutes;
+                            newTime += ' pm';
+                        } else {
+                            newTime = parseInt(hour) + ":" + minutes;
+                            newTime += ' am';
+                        }
+
+                        var weekColors = []
+                        if(data[i].sunday == 1){
+                            weekColors[0] = "cornflowerblue";
+                        }else{
+                            weekColors[0] = "grey";
+                        }
+
+                        if(data[i].monday == 1){
+                            weekColors[1] = "cornflowerblue";
+                        }else{
+                            weekColors[1] = "grey";
+                        }
+
+                        if(data[i].tuesday == 1){
+                            weekColors[2] = "cornflowerblue";
+                        }else{
+                            weekColors[2] = "grey";
+                        }
+
+                        if(data[i].wednesday == 1){
+                            weekColors[3] = "cornflowerblue";
+                        }else{
+                            weekColors[3] = "grey";
+                        }
+
+                        if(data[i].thursday == 1){
+                            weekColors[4] = "cornflowerblue";
+                        }else{
+                            weekColors[4] = "grey";
+                        }
+
+                        if(data[i].friday == 1){
+                            weekColors[5] = "cornflowerblue";
+                        }else{
+                            weekColors[5] = "grey";
+                        }
+
+                        if(data[i].saturday == 1){
+                            weekColors[6] = "cornflowerblue";
+                        }else{
+                            weekColors[6] = "grey";
+                        }
+
+
+
+
+                        $('#schedule_list').append('<li data-theme="c"><div class="ui-block-a" style="width:40%"><h3 style="text-align:center">'+newTime+'<br><span style="color: '+weekColors[0]+'">Su</span> <span style="color: '+weekColors[1]+'">M</span> <span style="color: '+weekColors[2]+'">T</span> <span style="color: '+weekColors[3]+'">W</span> <span style="color: '+weekColors[4]+'">Tr</span> <span style="color: '+weekColors[5]+'">Fr</span> <span style="color: '+weekColors[6]+'">Sa</span></h3></div><div class="ui-block-b" style="width:25%"><div data-role="fieldcontain" data-controltype="toggleswitch" data-theme="c"><select name="toggleswitch1" id="toggleswitch1" data-theme="c" data-role="slider"data-mini="true" data-theme="c"><option value="off">Off</option><option value="on">On</option></select></div></div><div class="ui-block-c"><button data-role="button" id='+data[i].schedule_id+' data-icon="delete" onClick="return delete_schedule(this);" data-iconpos="notext">Delete</button></div></li>');
+                        
+
+                    }
+
+
+                    $('#schedule_list').trigger('create');
+
+                     
+                },
+                
+                error: function(error) {
+                    console.log(error.responseText);
+                }
+                
+                });
+
+        $('.slider').on('slidestart', function(){    
+             console.log('Start');
+        });
+
+        $( ".slider" ).on( 'slidestop', function( event ) {alert("TEST"); });
+
+        $( ".slider" ).slider({
+          stop: function( event, ui ) {alert("TEST");}
+        });
+
+         $('.slider').on('slidestop', function(){   
+            alert("TEST");
+        });
+        function toggle(state){
+            alert("test");
+        }
+
+        $('#OnFront').on('slidestart', function(){    
+             console.log('Start');
+        });
+
+        $( ".slider" ).on( 'slidestop', function( event ) {alert("TEST"); });
+
+        $( ".slider" ).slider({
+          stop: function( event, ui ) {alert("TEST");}
+        });
+
+         $('.slider').on('slidestop', function(){   
+            alert("TEST");
+        });
+        function toggle(state){
+            alert("test");
+        }
+
+
+        }
+
+
+
 
         </script> 
         </html>
