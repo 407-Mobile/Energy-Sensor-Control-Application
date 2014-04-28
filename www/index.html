@@ -89,7 +89,7 @@
                             </div>
                             <div class="ui-block-b">
                                 <div data-role="fieldcontain" data-controltype="toggleswitch" data-theme="c">
-                                    <select name="toggleswitch1" id="toggleswitch1" data-theme="c" data-role="slider"
+                                    <select name="device_state" id="device_state" data-theme="c" data-role="slider"
                                             data-mini="true" data-theme="c">
                                         <option value="off">
                                             Off
@@ -290,6 +290,12 @@
                 
                 var id = localStorage.getItem("user_id");
 
+
+
+
+
+
+
                 $.ajax({
                 url: "http://studioxps.wings.cs.wisc.edu/digitalnetworkdevices/includes/get_devices_mobile.php",
                 type: "post", 
@@ -299,10 +305,19 @@
                     var devices = data;
                     console.log(data);
 
+                    var currPowerColor = "";
                     for(var i = 0; i < devices.length; i++)
                     {
+                        
+                        if(devices[i].device_state == "1")
+                        {
+                            currPowerColor = "green";
+                        }else{
+                            currPowerColor = "#800000";
+                        }
 
-                        $('#sensor_list').append('<li data-theme="c"><button data-role="button" onClick="return scheduler(this);" id='+devices[i].sensor_id+' data-theme="c">Sensor ID: '+devices[i].sensor_id+' Device Name: '+devices[i].name+'</button></li>');
+
+                        $('#sensor_list').append('<li data-theme="c"><div class="ui-block-a" style="width:85%"><button data-role="button" onClick="return scheduler(this);" id='+devices[i].sensor_id+' data-state='+devices[i].device_state+' data-theme="c">'+devices[i].name+'</button></div><div class="ui-block-b" style="width:15%"><button data-role="button" style="background-color:'+currPowerColor+'" data-icon="power"data-iconpos="notext"></button></div></li>');
                         
                     }
 
@@ -317,11 +332,21 @@
                 }
                 
                 });
-            });
+    });
 
         $(document).on("pageshow", "#sensor_settings", function( event ) {
                 var sensor_id = localStorage.getItem("sensor_id");
+                var device_state = localStorage.getItem('device_state');
+
+                if(device_state == "0"){
+                    $('#device_state').val('off').slider("refresh");
+                }else{
+                    $('#device_state').val('on').slider("refresh");
+                }
+
                 
+
+                console.log(device_state);
 
                 $('#schedule_list').append('<div><li data-role="list-divider" role="heading"><h3 style="text-align:center">Active Schedules</h3></li></div>');
 
@@ -495,6 +520,30 @@
 
         });
 
+
+        $('#device_state').on('slidestop', function () {
+
+            var state = $('#device_state').val();
+
+            $.ajax({
+                url: "http://studioxps.wings.cs.wisc.edu/cgi-bin/relay.cgi?sensorid=71&state="+state+"",
+                type: "get", 
+                success: function(data){
+                    console.log(data);
+
+                     
+                },
+                
+                error: function(error) {
+                    console.log(error.responseText);
+                }
+                
+                });
+
+
+
+        });
+
         $("#btnSaveSchedule").click(function (e) {
 
             var sensor_id = localStorage.getItem('sensor_id');
@@ -514,6 +563,8 @@
                 alert("Please make sure to enter a value for the time field");
                 return;
             }
+
+
 
             var schedule_data = {"sensor_id": sensor_id,
                         "time": time,
@@ -565,13 +616,16 @@
             $('#sensor_list').empty();
                 $('#sensor_list').trigger('create');
                 var sensor_id = sensor.id;
+                var device_state = $(sensor).attr("data-state");
+
                 localStorage.setItem('sensor_id',sensor_id);
+                localStorage.setItem('device_state', device_state);
                 $(':mobile-pagecontainer').pagecontainer('change', '#sensor_settings', {
                     transition: 'slide',
                     changeHash: false,
                     showLoadMsg: true
 
-                    });
+                });
         }
 
         function delete_schedule(schedule){
@@ -695,39 +749,6 @@
                 
                 });
 
-        $('.slider').on('slidestart', function(){    
-             console.log('Start');
-        });
-
-        $( ".slider" ).on( 'slidestop', function( event ) {alert("TEST"); });
-
-        $( ".slider" ).slider({
-          stop: function( event, ui ) {alert("TEST");}
-        });
-
-         $('.slider').on('slidestop', function(){   
-            alert("TEST");
-        });
-        function toggle(state){
-            alert("test");
-        }
-
-        $('#OnFront').on('slidestart', function(){    
-             console.log('Start');
-        });
-
-        $( ".slider" ).on( 'slidestop', function( event ) {alert("TEST"); });
-
-        $( ".slider" ).slider({
-          stop: function( event, ui ) {alert("TEST");}
-        });
-
-         $('.slider').on('slidestop', function(){   
-            alert("TEST");
-        });
-        function toggle(state){
-            alert("test");
-        }
 
 
         }
