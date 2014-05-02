@@ -23,9 +23,9 @@ select,
 textarea,
 button,
 .ui-btn {
-	font-size: 1em;
+	font-size: 1.1em;
 	line-height: 1.3;
-	 font-family: sans-serif /*{global-font-family}*/;
+	 font-family: "bookman" /*{global-font-family}*/;
 }
 legend,
 .ui-input-text input,
@@ -547,10 +547,10 @@ html head + body .ui-body-b.ui-focus {
 html .ui-bar-c .ui-bar-inherit,
 html .ui-body-c .ui-bar-inherit,
 html body .ui-group-theme-c .ui-bar-inherit {
-	background-color: #b3b3b3 /*{c-bar-background-color}*/;
-	border-color: #626262 /*{c-bar-border}*/;
+	background-color: #006837 /*{c-bar-background-color}*/;
+	border-color: #006837 /*{c-bar-border}*/;
 	color: #000000 /*{c-bar-color}*/;
-	text-shadow: 0 /*{c-bar-shadow-x}*/ 1px /*{c-bar-shadow-y}*/ 0 /*{c-bar-shadow-radius}*/ #eeeeee /*{c-bar-shadow-color}*/;
+	text-shadow: 0 /*{c-bar-shadow-x}*/ 1px /*{c-bar-shadow-y}*/ 0 /*{c-bar-shadow-radius}*/ #0e840e /*{c-bar-shadow-color}*/;
 	font-weight: bold;
 }
 .ui-bar-c {
@@ -561,11 +561,25 @@ html body .ui-group-theme-c .ui-bar-inherit {
 .ui-overlay-c,
 .ui-page-theme-c,
 .ui-page-theme-c .ui-panel-wrapper {
-	background-color: #d9ffb4 /*{c-page-background-color}*/;
+	/*background-color: #d9ffb4 /*{c-page-background-color}*/;
+	background: url("http://beijing.humanityplus.org/wp-content/uploads/2012/07/normal-light-bulb-with-plant4.png");
+        background-repeat:no-repeat;
+        background-position:left center;
+        background-size:cover;
 	border-color: #d9ffb4 /*{c-page-border}*/;
-	color: #000000 /*{c-page-color}*/;
-	text-shadow: 0 /*{c-page-shadow-x}*/ 1px /*{c-page-shadow-y}*/ 0 /*{c-page-shadow-radius}*/ #eeeeee /*{c-page-shadow-color}*/;
+	color: black /*{c-page-color}*/;
+	text-shadow: 0 /*{c-page-shadow-x}*/ 1px /*{c-page-shadow-y}*/ 0 /*{c-page-shadow-radius}*/ #black /*{c-page-shadow-color}*/;
 }
+.ui-page {
+        background: transparent;
+
+    }
+    .ui-content{
+        background: transparent;
+
+
+
+
 /* Body: Read-only lists, text inputs, collapsible content */
 .ui-body-c,
 .ui-page-theme-c .ui-body-inherit,
@@ -573,13 +587,14 @@ html .ui-bar-c .ui-body-inherit,
 html .ui-body-c .ui-body-inherit,
 html body .ui-group-theme-c .ui-body-inherit,
 html .ui-panel-page-container-c {
-	background-color: #3e754e /*{c-body-background-color}*/;
-	border-color: #56a36d /*{c-body-border}*/;
-	color: #ffffff /*{c-body-color}*/;
-	text-shadow: 0 /*{c-body-shadow-x}*/ 1px /*{c-body-shadow-y}*/ 0 /*{c-body-shadow-radius}*/ #444444 /*{c-body-shadow-color}*/;
+	background-color: #0e840e  /*{c-body-background-color}*/;
+	color: black /*{c-body-color}*/;
+	text-shadow: 0 /*{c-body-shadow-x}*/ 1px /*{c-body-shadow-y}*/ 0 /*{c-body-shadow-radius}*/ #black /*{c-body-shadow-color}*/;
+	font-weight: bold;
+}
 }
 .ui-body-c {
-	border-width: 1px;
+	border-width: 0px;
 	border-style: solid;
 }
 /* Links */
@@ -587,26 +602,26 @@ html .ui-panel-page-container-c {
 html .ui-bar-c a,
 html .ui-body-c a,
 html body .ui-group-theme-c a {
-	color: #3388cc /*{c-link-color}*/;
+	color: #449756  /*{c-link-color}*/;
 	font-weight: bold;
 }
 .ui-page-theme-c a:visited,
 html .ui-bar-c a:visited,
 html .ui-body-c a:visited,
 html body .ui-group-theme-c a:visited {
-    color: #3388cc /*{c-link-visited}*/;
+    color: #449756  /*{c-link-visited}*/;
 }
 .ui-page-theme-c a:hover,
 html .ui-bar-c a:hover,
 html .ui-body-c a:hover,
 html body .ui-group-theme-c a:hover {
-	color: #005599 /*{c-link-hover}*/;
+	color: #449756  /*{c-link-hover}*/;
 }
 .ui-page-theme-c a:active,
 html .ui-bar-c a:active,
 html .ui-body-c a:active,
 html body .ui-group-theme-c a:active {
-	color: #005599 /*{c-link-active}*/;
+	color: #449756  /*{c-link-active}*/;
 }
 /* Button up */
 .ui-page-theme-c .ui-btn,
@@ -620,10 +635,11 @@ html .ui-bar-c .ui-btn:visited,
 html .ui-body-c .ui-btn:visited,
 html body .ui-group-theme-c .ui-btn:visited,
 html head + body .ui-btn.ui-btn-c:visited {
-	background-color: #cbff7c /*{c-bup-background-color}*/;
-	border-color: #6f8c44 /*{c-bup-border}*/;
+	background-color: #3ea854  /*{c-bup-background-color}*/;
+	border-color: black /*{c-bup-border}*/;
+	border-width: 1px; 
 	color: #000000 /*{c-bup-color}*/;
-	text-shadow: 0 /*{c-bup-shadow-x}*/ 1px /*{c-bup-shadow-y}*/ 0 /*{c-bup-shadow-radius}*/ #eeeeee /*{c-bup-shadow-color}*/;
+	text-shadow: 0 /*{c-bup-shadow-x}*/ 1px /*{c-bup-shadow-y}*/ 0 /*{c-bup-shadow-radius}*/ #3ea854  /*{c-bup-shadow-color}*/;
 }
 /* Button hover */
 .ui-page-theme-c .ui-btn:hover,
@@ -631,10 +647,11 @@ html .ui-bar-c .ui-btn:hover,
 html .ui-body-c .ui-btn:hover,
 html body .ui-group-theme-c .ui-btn:hover,
 html head + body .ui-btn.ui-btn-c:hover {
-	background-color: #e9FF8e /*{c-bhover-background-color}*/;
-	border-color: #808c4e /*{c-bhover-border}*/;
+	background-color: #3ea854  /*{c-bhover-background-color}*/;
+	border-color: black/*{c-bhover-border}*/;
+	border-width: 1px; 
 	color: #000000 /*{c-bhover-color}*/;
-	text-shadow: 0 /*{c-bhover-shadow-x}*/ 1px /*{c-bhover-shadow-y}*/ 0 /*{c-bhover-shadow-radius}*/ #eeeeee /*{c-bhover-shadow-color}*/;
+	text-shadow: 0 /*{c-bhover-shadow-x}*/ 1px /*{c-bhover-shadow-y}*/ 0 /*{c-bhover-shadow-radius}*/ #3ea854  /*{c-bhover-shadow-color}*/;
 }
 /* Button down */
 .ui-page-theme-c .ui-btn:active,
@@ -642,10 +659,11 @@ html .ui-bar-c .ui-btn:active,
 html .ui-body-c .ui-btn:active,
 html body .ui-group-theme-c .ui-btn:active,
 html head + body .ui-btn.ui-btn-c:active {
-	background-color: #e9FF8e /*{c-bdown-background-color}*/;
-	border-color: #808c4e /*{c-bdown-border}*/;
-	color: #000000 /*{c-bdown-color}*/;
-	text-shadow: 0 /*{c-bdown-shadow-x}*/ 1px /*{c-bdown-shadow-y}*/ 0 /*{c-bdown-shadow-radius}*/ #eeeeee /*{c-bdown-shadow-color}*/;
+	background-color: #3ea854  /*{c-bdown-background-color}*/;
+	border-color: black  /*{c-bdown-border}*/;
+	border-width: 1px; 
+	color: #000000  /*{c-bdown-color}*/;
+	text-shadow: 0 /*{c-bdown-shadow-x}*/ 1px /*{c-bdown-shadow-y}*/ 0 /*{c-bdown-shadow-radius}*/ #3ea854 /*{c-bdown-shadow-color}*/;
 }
 /* Active button */
 .ui-page-theme-c .ui-btn.ui-btn-active,
@@ -671,10 +689,11 @@ html .ui-bar-c .ui-slider-track .ui-btn-active,
 html .ui-body-c .ui-slider-track .ui-btn-active,
 html body .ui-group-theme-c .ui-slider-track .ui-btn-active,
 html body div.ui-slider-track.ui-body-c .ui-btn-active {
-	background-color: #3388cc /*{c-active-background-color}*/;
-	border-color: #3388cc /*{c-active-border}*/;
-	color: #ffffff /*{c-active-color}*/;
-	text-shadow: 0 /*{c-active-shadow-x}*/ 1px /*{c-active-shadow-y}*/ 0 /*{c-active-shadow-radius}*/ #005599 /*{c-active-shadow-color}*/;
+	background-color: #3ea854 /*{c-active-background-color}*/;
+	border-color: #3ea854 /*{c-active-border}*/;
+	border-width: 1px;
+	color: #000000  /*{c-active-color}*/;
+	text-shadow: 0 /*{c-active-shadow-x}*/ 1px /*{c-active-shadow-y}*/ 0 /*{c-active-shadow-radius}*/ #3ea854 /*{c-active-shadow-color}*/;
 }
 /* Active radio button icon */
 .ui-page-theme-c .ui-radio-on:after,
@@ -682,7 +701,7 @@ html .ui-bar-c .ui-radio-on:after,
 html .ui-body-c .ui-radio-on:after,
 html body .ui-group-theme-c .ui-radio-on:after,
 .ui-btn.ui-radio-on.ui-btn-c:after {
-	border-color: #3388cc /*{c-active-background-color}*/;
+	border-color: #3ea854 /*{c-active-background-color}*/;
 }
 /* Focus */
 .ui-page-theme-c .ui-btn:focus,
@@ -697,9 +716,9 @@ html .ui-body-c .ui-focus,
 html body .ui-group-theme-c .ui-focus,
 html head + body .ui-btn-c.ui-focus,
 html head + body .ui-body-c.ui-focus {
-	-webkit-box-shadow: 0 0 12px #3388cc /*{c-active-background-color}*/;
-	-moz-box-shadow: 0 0 12px #3388cc /*{c-active-background-color}*/;
-	box-shadow: 0 0 12px #3388cc /*{c-active-background-color}*/;
+	-webkit-box-shadow: 0 0 12px #41af75 /*{c-active-background-color}*/;
+	-moz-box-shadow: 0 0 12px #41af75 /*{c-active-background-color}*/;
+	box-shadow: 0 0 12px #41af75 /*{c-active-background-color}*/;
 }
 
 
