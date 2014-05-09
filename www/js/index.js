@@ -260,12 +260,13 @@ $("#setSchedule").click(function (e) {
 $('#device_state').on('slidestop', function () {
 
     var state = $('#device_state').val();
+    var sensor_id = localStorage.getItem('sensor_id');
 
     $.ajax({
-        url: "http://studioxps.wings.cs.wisc.edu/cgi-bin/relay.cgi?sensorid=71&state="+state+"",
+        url: "http://studioxps.wings.cs.wisc.edu/cgi-bin/relay.cgi?sensorid="+sensor_id+"&state="+state+"",
         type: "get", 
         success: function(data){
-             
+
         },
         
         error: function(error) {
@@ -296,7 +297,7 @@ function scheduleState(schedule){
         },
         
         error: function(error) {
-            alert(error.responseText);
+            console.log(error);
         }
         
     });
@@ -335,7 +336,7 @@ $("#btnSaveSchedule").click(function (e) {
                 "friday": friday,
                 "saturday": saturday
     };
-
+    console.log(sensor_id);
     $.ajax({
     	url: "http://studioxps.wings.cs.wisc.edu/digitalnetworkdevices/includes/set_schedules.php",
         type: "post", 
@@ -397,7 +398,7 @@ function delete_schedule(schedule){
     },
     
     error: function(error) {
-        alert(error);
+        console.log(error);
     }
     
     });

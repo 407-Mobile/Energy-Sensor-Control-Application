@@ -33,9 +33,11 @@
     <description>
         Energy Control application created for the WINGS Laboratory at UW-Madison
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
+    <author email="jbuckner@wisc.edu" href="http://cordova.io">
         Apache Cordova Team
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <preference name="SplashScreen" value="icon" />
+    <preference name="SplashScreenDelay" value="3000" />
 </widget>
